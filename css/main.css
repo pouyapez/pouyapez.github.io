@@ -44,4 +44,5 @@ ul.posts li {
 
 li {
     display:list-item;
+    display:inline;
 }
