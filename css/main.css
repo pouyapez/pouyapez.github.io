@@ -9,6 +9,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: list-item;
+    display: inline;
     margin-right: 20px;
 }
 a {
@@ -43,6 +44,5 @@ ul.posts li {
 }
 
 li {
-    list-style-type: square;
     display:list-item;
 }
