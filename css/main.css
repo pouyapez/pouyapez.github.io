@@ -8,7 +8,6 @@ nav ul, footer ul {
     list-style: square;
 }
 nav ul li, footer ul li {
-    display: list-item;
     display: inline;
     margin-right: 20px;
 }
