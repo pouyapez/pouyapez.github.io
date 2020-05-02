@@ -12,6 +12,7 @@ layout: default
           </p>
         </td>
       </tr>
+   </table>
 
 # Internships
 
