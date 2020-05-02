@@ -44,7 +44,7 @@ layout: default
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="400px" />
-    <col width="600px" />
+    <col width="700px" />
       <tr>
         <td>
           <img class="left-align image noselect" src="/images/crowd.jpg" width="1000">
@@ -67,7 +67,7 @@ layout: default
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="400px" />
-    <col width="600px" />
+    <col width="700px" />
       <tr>
         <td>
           <img class="left-align image noselect" src="/images/criage.png" width="1000">
@@ -89,7 +89,7 @@ layout: default
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="400px" />
-    <col width="600px" />
+    <col width="700px" />
       <tr>
         <td>
           <img class="left-align image noselect" src="/images/graph.jpg" width="1000">
@@ -111,7 +111,7 @@ layout: default
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="400px" />
-    <col width="600px" />
+    <col width="700px" />
       <tr>
         <td>
           <img class="left-align image noselect" src="/images/2014.png"  width="1000">
