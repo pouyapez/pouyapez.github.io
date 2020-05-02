@@ -5,7 +5,7 @@ layout: default
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/face.png" style="width:100%">
+          <img class="left-align image noselect" src="/images/face.png" style="width:00%">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
@@ -48,7 +48,7 @@ layout: default
           <img class="left-align image noselect" src="/images/crowd.jpg" style="width:150%">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin" style="width:50%;">
+          <p class="text right-align text-large add-top-margin" style="width:100%;">
               Revisiting Evaluation of Knowledge Base Completion Models
 Pouya Pezeshkpour, Yifan Tian, Sameer Singh
 AKBC 2020
@@ -67,7 +67,7 @@ In this paper, we first study the shortcomings of the evaluation metrics in know
           <img class="left-align image noselect" src="/images/criage.png" style="width:150%">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin" style="width:50%;">
+          <p class="text right-align text-large add-top-margin" style="width:100%;">
 Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications
 Pouya Pezeshkpour, Yifan Tian, Sameer Singh
 NAACL 2019
@@ -83,10 +83,10 @@ Project Page     PDF     Source Code     Video on Youtube
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/graph.jpg" style="width:150%">
+          <img class="left-align image noselect" src="/images/graph.jpg" style="width:100%">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin" style="width:50%;">
+          <p class="text right-align text-large add-top-margin" style="width:100%;">
 Embedding Multimodal Relational Data for Knowledge Base Completion
 Pouya Pezeshkpour, Liyan Chen, Sameer Singh
 EMNLP 2018
@@ -103,10 +103,10 @@ Project Page     PDF     Source Code     Video on Youtube
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/2014.png" style="width:150%">
+          <img class="left-align image noselect" src="/images/2014.png" style="width:100%">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin" style="width:50%;">
+          <p class="text right-align text-large add-top-margin" style="width:100%;">
 Optimal tradeoff between source and state distortions over a Gaussian channel using single and hybrid digital analog codes
 Pouya Pezeshkpour, Hamid Behroozi
 IST'2014
