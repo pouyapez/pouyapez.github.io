@@ -45,7 +45,7 @@ layout: default
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/crowd.jpg" style="width:100%" width="5000">
+          <img class="left-align image noselect" src="/images/crowd.jpg" width="5000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
