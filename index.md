@@ -4,10 +4,10 @@ layout: default
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/face.png" style="width:75%">
+          <img class="left-align image noselect" src="/images/face.png" style="width:100%">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin" style="width:110%;">
+          <p class="text right-align text-large add-top-margin" style="width:100%;">
               I am a fourth-year PhD student in Machine Learning at the University of California Irvine, advised by Prof.                       Sameer Singh. My main area of interest are Knowldge Graphs, Intrepretability, Active Learning and NLP.
           </p>
         </td>
