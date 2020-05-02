@@ -45,7 +45,7 @@ layout: default
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/crowd.jpg" style="width:100%" width="100">
+          <img class="left-align image noselect" src="/images/crowd.jpg" style="width:100%" width="1000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
@@ -65,7 +65,7 @@ In this paper, we first study the shortcomings of the evaluation metrics in know
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/criage.png" style="width:100%"  width="100">
+          <img class="left-align image noselect" src="/images/criage.png" style="width:100%"  width="1000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
@@ -85,7 +85,7 @@ Project Page     PDF     Source Code     Video on Youtube
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/graph.jpg" style="width:100%"  width="100">
+          <img class="left-align image noselect" src="/images/graph.jpg" style="width:100%"  width="1000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
@@ -105,7 +105,7 @@ Project Page     PDF     Source Code     Video on Youtube
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/2014.png" style="width:100%"  width="100">
+          <img class="left-align image noselect" src="/images/2014.png" style="width:100%"  width="1000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
