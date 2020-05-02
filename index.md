@@ -138,49 +138,7 @@ PDF
   <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajay Chander, "USER-FRIENDLY EXPLANATION PRODUCTION USING GENERATIVE ADVERSARIAL NETWORKS". US Patent Number 20200125640, 2020.</li>
  <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajey Chander, "EXPLANATIONS GENERATION WITH DIFFERENT COGNITIVE VALUES USING GENERATIVE ADVERSARIAL NETWORKS". US Patent Number 20200125975, 2020.</li>
 </ul>
-
-### Continuous Optimization for Search
-
-![Branching](/images/autoencoder.png)
-
-<p align="justify">
-Using the approximations provided in the previous section, we can use brute force enumeration to find the adversary〈s′,r′,o〉. This approach is feasible when removing an observed triple since the search space of such modifications is usually small. On the other hand, finding the most influential unobserved facts to add requires search over a much larger space of all possible unobserved facts (that share the object). Instead, we identify the most influential unobserved fact〈s′,r′,o〉by using a gradient-based algorithm on vector Z(s',r') in the embedding space. After identifying the optimal Z(s′,r′), we map the vector Z(s′,r′) to the entity-relation space, i.e., translating it into (s′,r′) using above inverter network.
-</p>
-
-# Experiments
-
 * * *
 
-<p align="justify">
-We evaluate CRIAGE by, 1) comparing CRIAGE estimate with the actual effect of the attacks, 2) studying the effect of adversarial attacks on evaluation metrics, 3) exploring its application to the interpretability of KG representations, and 4) detecting incorrect triples.
-</p>
+Medium      My Writings
 
-### Influence Function vs CRIAGE
-
-![Branching](/images/IF.png)
-
-<p align="justify">
-We show the time to compute a single adversary by IF (influence function) compared to CRIAGE, as we steadily grow the number of entities (randomly chosen subgraphs), averaged over 10 random triples. As it shows, CRIAGE is mostly unaffected by the number of entities while IF increases quadratically. Considering that real-world KGs have tens of thousands of times more entities, making IF unfeasible for them.
-</p>
-
-### Robustness of Link Prediction Models
-
-![Branching](/images/robustness.png)
-
-<p align="justify">
-Now we evaluate the effectiveness of CRIAGE to successfully attack link prediction by adding false facts. Since this is the first work on adversarial attacks for link prediction, we introduce we consider two baselines to compare against our method: 1) choosing a random fake fact〈s′,r′,o〉(Random Attack); 2) finding (s′,r′) by first calculating f(e_s,e_r) and then feeding −f(e_s,e_r) to the decoder of the inverter function (Opposite Attack).  In addition to CRIAGE-Add, we introduce two other alternatives of our method:  (1) CRIAGE-FT, that uses CRIAGE to increase the score of a fake fact over, and (2) CRIAGE-Best that selects between CRIAGE-Add and CRIAGE-FT attacks. 
-</p>
-<p align="justify">
-All-Test: The result of the attack on all test facts as targets is provided in the Table 4. CRIAGE-Add outperforms the baselines, demonstrating its ability to effectively attack the KG representations. It seems DistMult is more robust against random attacks, while ConvE is more robust against designed attacks.
-</p>
-<p align="justify">
-Uncertain-Test: we consider a subset of test triples that 1) the model predicts correctly, 2) difference between their scores and the negative sample with the highest score is minimum. The attacks are much more effective in this scenario, causing a considerable drop in the metrics. Further, in addition to CRIAGE significantly outperforming other baselines, they indicate that ConvE’s confidence is much more robust.
-</p>
-
-###  Interpretability of Models
-
-![Octocat](/images/int.png)
-
-<p align="justify">
-To be able to understand and interpret why a link is predicted, we need to find out which part of the graph was most influential on the prediction. To provide such explanations, we identify the most influential fact using CRIAGE-Remove. Instead of focusing on individual predictions, we aggregate the explanations over the whole dataset for each relation using a simple rule extraction technique: we find simple patterns on subgraphs that surround the target triple and the removed fact from CRIAGE-Remove, and appear more than 90% of the time. The rules show several interesting inferences, such that "hasChildis" often inferred via married parents, and "isLocatedIn" via transitivity. Furthermore, DistMult often uses the "hasCapitalas" an intermediate step for "isLocatedIn", while ConvE incorrectly uses "isNeighbor".  We also compare against rules extracted in DistMult paper. Interestingly, the extracted rules contain all the rules provided by CRIAGE, demonstrating that CRIAGE can be used to accurately interpret models.
-</p>
