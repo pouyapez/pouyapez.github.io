@@ -100,7 +100,7 @@ layout: default
             <font style="font-size:15px">Pouya Pezeshkpour, Liyan Chen, Sameer Singh<br>
             EMNLP 2018</font><br>
             <font style="font-size:13px">Knowledge bases (KB) are an essential part of many computational systems with applications in search, structured data management, recommendations, question answering, and information retrieval. However, KBs often suffer from incompleteness, noise in their entries, and inefficient inference under uncertainty. To address these issues learning relational KBs by representing entities and relations in an embedding space has been a focus of active research. Nevertheless, Knowledge bases in the real-world, contain a wide variety of data types such as text, images, and numerical values which are being ignored by current methodology. We propose multimodal knowledge base embeddings (MKBE) that use different neural encoders for this variety of observed data, and combine them with existing relational models to learn embeddings of the entities and multimodal data. Further, using these learned embedings and different neural decoders, we introduce a novel multimodal imputation model to generate missing multimodal values, like text and images, from information in the knowledge base.</font><br>
-<font style="font-size:15px">Project Page     PDF     Source Code     Video on Youtube</font>
+<font style="font-size:15px"><a href="https://pouyapez.github.io/mkbe/">Project Page</a>  <span class="tab">   <a href="https://arxiv.org/pdf/1809.01341.pdf">PDF</a>  <span class="tab">   <a href="https://github.com/pouyapez/mkbe">Source Code</a>  <span class="tab">   <a href="https://www.youtube.com/watch?v=Bt5CccdXHUM&t=2s">Video on Youtube</a></font>
           </p>
         </td>
       </tr>
@@ -122,7 +122,7 @@ layout: default
             <font style="font-size:15px">Pouya Pezeshkpour, Hamid Behroozi<br>
             IST'2014</font><br>
             <font style="font-size:13px">In this paper, the problem of transmitting an analog Gaussian source over an additive white Gaussian noise (AWGN) channel in the presence of a Gaussian interference known only at the transmitter is investigated. Our goal is to estimate both the analog source and the channel state at the receiver simultaneously. In this work, we present different transmission schemes based on joint source-channel coding. We study hybrid digital-analog (HDA) joint source-channel coding schemes and analyze the region of (mean-squared error) distortion pairs (in estimating the source and the state) that are simultaneously achievable.</font><br>
-<font style="font-size:15px">PDF</font>
+<font style="font-size:15px"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7000779">PDF</a></font>
           </p>
         </td>
       </tr>
@@ -136,18 +136,18 @@ layout: default
 <ul>
   <li>Pouya Pezeshkpour, Zhengli Zhao, Sameer Singh,"Using Data Importance for Effective Active Learning". the CVPR workshop on Visual Learning with Limited Labels (VL3), 2020.PDF.</li>
   <li>Pouya Pezeshkpour, Yifan Tian, Sameer Singh, "Integrating Local Structure into Knowledge Graph Embeddings". SoCal NLP Symposium 2019.</li>
-  <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajey Chander, "Generating User-friendly Explanations for Loan Denials using GANs". NIPS 2018 Workshop on Challenges and Opportunities for AI in Financial Services.</li>
-  <li>Pouya Pezeshkpour, Carlos Guestrin, Sameer Singh"Compact Factorization of Matrices Using Generalized Round-Rank". Southern California Machine Learning Symposium 2017.</li>
+  <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajey Chander, "<a href="https://pouyapez.github.io/Generating%20User-friendly%20Explanations%20for%20Loan%20Denials%20using%20GANs.pdf">Generating User-friendly Explanations for Loan Denials using GANs</a>". NIPS 2018 Workshop on Challenges and Opportunities for AI in Financial Services.</li>
+  <li>Pouya Pezeshkpour, Carlos Guestrin, Sameer Singh, "<a href="https://arxiv.org/pdf/1805.00184.pdf">Compact Factorization of Matrices Using Generalized Round-Rank</a>". Southern California Machine Learning Symposium 2017.</li>
 </ul>
 
 # Patents
 * * *
 
 <ul>
-  <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajay Chander, "USER-FRIENDLY EXPLANATION PRODUCTION USING GENERATIVE ADVERSARIAL NETWORKS". US Patent Number 20200125640, 2020.</li>
- <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajey Chander, "EXPLANATIONS GENERATION WITH DIFFERENT COGNITIVE VALUES USING GENERATIVE ADVERSARIAL NETWORKS". US Patent Number 20200125975, 2020.</li>
+  <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajay Chander, "<a href="https://patents.justia.com/patent/20200125640">USER-FRIENDLY EXPLANATION PRODUCTION USING GENERATIVE ADVERSARIAL NETWORKS</a>". US Patent Number 20200125640, 2020.</li>
+ <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajey Chander, "<a href="https://patents.justia.com/patent/20200125975">EXPLANATIONS GENERATION WITH DIFFERENT COGNITIVE VALUES USING GENERATIVE ADVERSARIAL NETWORKS</a>". US Patent Number 20200125975, 2020.</li>
 </ul>
 * * *
 
-Medium      My Writings
+<p align="center"><a href="https://medium.com/me/stories/public">Medium</a>    <span class="tab">   <a href="https://medium.com/series/my-writings-4de58ce3f034">My Writings</a></p>
 
