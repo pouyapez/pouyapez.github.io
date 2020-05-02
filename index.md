@@ -54,8 +54,7 @@ layout: default
               AKBC 2020<br>
                In this paper, we first study the shortcomings of the evaluation metrics in knowldge graph Embeddings.  More               specifically, we demonstrate that these metrics 1) are unreliable for estimating calibration, 2) make strong assumptions that    are often violated, and 3) do not sufficiently, and consistently, differentiate embedding methods from simple approaches and from each other. To address these issues, we provide a semi-complete KG using a randomly sampled subgraph from the test and       validation data of YAGO3-10, allowing us to compute accurate triple classification accuracy on this data. <br>
              PDF
-             
-            </p>
+             </p>
         </td>
       </tr>
    </table>
@@ -67,7 +66,7 @@ layout: default
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/criage.png" style="width:100%"  width="5000">
+          <img class="left-align image noselect" src="/images/criage.png" width="5000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
@@ -87,7 +86,7 @@ Project Page     PDF     Source Code     Video on Youtube
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/graph.jpg" style="width:100%"  width="5000">
+          <img class="left-align image noselect" src="/images/graph.jpg" width="5000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
