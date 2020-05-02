@@ -2,7 +2,7 @@
 layout: default
 ---
 <p align="justify">
-Representing entities and relations in an embedding space is a well-studied approach for machine learning on relational data. Existing approaches, however, primarily focus on improving accuracy and overlook other aspects such as robustness and interpretability. In this paper, we propose adversarial modifications for link prediction models: identifying the fact to add into or remove from the knowledge graph that changes the prediction for a target fact after the model is retrained. We introduce an efficient approach to estimate the effect of such modifications by approximating the change in the embeddings when the knowledge graph changes. We use these techniques to evaluate the robustness of link prediction models (by measuring sensitivity to additional facts), study interpretability through the facts most responsible for predictions (by identifying the most influential neighbors), and detect incorrect facts in the knowledge base.
+I am a fourth-year PhD student in Machine Learning at the University of California Irvine, advised by Prof. Sameer Singh. My main area of interest are Knowldge Graphs, Intrepretability, Active Learning and NLP.
 </p>
 
 # CRIAGE: Completion Robustness and Interpretability via Adversarial Graph Edits
