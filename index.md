@@ -78,7 +78,7 @@ layout: default
             <font style="font-size:15px">Pouya Pezeshkpour, Yifan Tian, Sameer Singh<br>
             NAACL 2019</font><br>
             <font style="font-size:13px">Representing entities and relations in an embedding space is a well-studied approach for machine learning on relational data. Existing approaches, however, primarily focus on improving accuracy and overlook other aspects such as robustness and interpretability. In this paper, we propose adversarial modifications for link prediction models: identifying the fact to add into or remove from the knowledge graph that changes the prediction for a target fact after the model is retrained. We introduce an efficient approach to estimate the effect of such modifications by approximating the change in the embeddings when the knowledge graph changes. We use these techniques to evaluate the robustness of link prediction models (by measuring sensitivity to additional facts), study interpretability through the facts most responsible for predictions (by identifying the most influential neighbors), and detect incorrect facts in the knowledge base.</font><br>
-<font style="font-size:15px"><a href="https://pouyapez.github.io/criage/">Project Page</a>    <a href="https://arxiv.org/pdf/1905.00563.pdf">PDF</a>    <a href="https://github.com/pouyapez/criage">Source Code</a>     <a href="https://www.youtube.com/watch?v=irVqAjt664s">Video on Youtube</a></font>
+<font style="font-size:15px"><a href="https://pouyapez.github.io/criage/">Project Page</a>  &nbsp;&nbsp;&nbsp;  <a href="https://arxiv.org/pdf/1905.00563.pdf">PDF</a>  &nbsp;&nbsp;&nbsp;  <a href="https://github.com/pouyapez/criage">Source Code</a>  &nbsp;&nbsp;&nbsp;  <a href="https://www.youtube.com/watch?v=irVqAjt664s">Video on Youtube</a></font>
           </p>
         </td>
       </tr>
@@ -100,7 +100,7 @@ layout: default
             <font style="font-size:15px">Pouya Pezeshkpour, Liyan Chen, Sameer Singh<br>
             EMNLP 2018</font><br>
             <font style="font-size:13px">Knowledge bases (KB) are an essential part of many computational systems with applications in search, structured data management, recommendations, question answering, and information retrieval. However, KBs often suffer from incompleteness, noise in their entries, and inefficient inference under uncertainty. To address these issues learning relational KBs by representing entities and relations in an embedding space has been a focus of active research. Nevertheless, Knowledge bases in the real-world, contain a wide variety of data types such as text, images, and numerical values which are being ignored by current methodology. We propose multimodal knowledge base embeddings (MKBE) that use different neural encoders for this variety of observed data, and combine them with existing relational models to learn embeddings of the entities and multimodal data. Further, using these learned embedings and different neural decoders, we introduce a novel multimodal imputation model to generate missing multimodal values, like text and images, from information in the knowledge base.</font><br>
-<font style="font-size:15px"><a href="https://pouyapez.github.io/mkbe/">Project Page</a>  <span class="tab">   <a href="https://arxiv.org/pdf/1809.01341.pdf">PDF</a>  <span class="tab">   <a href="https://github.com/pouyapez/mkbe">Source Code</a>  <span class="tab">   <a href="https://www.youtube.com/watch?v=Bt5CccdXHUM&t=2s">Video on Youtube</a></font>
+<font style="font-size:15px"><a href="https://pouyapez.github.io/mkbe/">Project Page</a>  &nbsp;&nbsp;&nbsp;   <a href="https://arxiv.org/pdf/1809.01341.pdf">PDF</a>  &nbsp;&nbsp;&nbsp;   <a href="https://github.com/pouyapez/mkbe">Source Code</a>  &nbsp;&nbsp;&nbsp;   <a href="https://www.youtube.com/watch?v=Bt5CccdXHUM&t=2s">Video on Youtube</a></font>
           </p>
         </td>
       </tr>
@@ -149,5 +149,5 @@ layout: default
 </ul> 
 * * *
 
-<p align="center"><a href="https://medium.com/me/stories/public">Medium</a>    <span class="tab">   <a href="https://medium.com/series/my-writings-4de58ce3f034">My Writings</a></p>
+<p align="center"><a href="https://medium.com/me/stories/public">Medium</a>    &nbsp;&nbsp;&nbsp;   <a href="https://medium.com/series/my-writings-4de58ce3f034">My Writings</a></p>
 
