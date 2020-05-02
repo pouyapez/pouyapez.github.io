@@ -66,7 +66,7 @@ layout: default
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/criage.png" width="500">
+          <img class="left-align image noselect" src="/images/criage.png" width="2000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
@@ -86,7 +86,7 @@ Project Page     PDF     Source Code     Video on Youtube
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/graph.jpg" width="500">
+          <img class="left-align image noselect" src="/images/graph.jpg" width="2000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin">
