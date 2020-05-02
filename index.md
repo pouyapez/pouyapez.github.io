@@ -38,16 +38,85 @@ layout: default
 </ul>
 
 
-### Adding a new fact (CRIAGE-Add)
+# Conference Publications
+* * *
 
-<p align="justify">
-We are also interested in investigating the robustness of models, i.e., how sensitive are the predictions to small additions to the knowledge graph. Specifically, for a target prediction <s,r,o>, we are interested in identifying a single fake fact <s',r',o> that, when added to the knowledge graph G, changes the prediction score ψ(s,r,o) the most.
-Using ψ'(s,r,o) as the score after training on G ∪ <s',r',o>, we define the adversary as:
-</p>
+<div class="menu-container noselect">
+   <table class="content-table">
+      <tr>
+        <td>
+          <img class="left-align image noselect" src="/images/crowd.jpg" style="width:150%">
+        </td>
+        <td>
+          <p class="text right-align text-large add-top-margin" style="width:50%;">
+              Revisiting Evaluation of Knowledge Base Completion Models
+Pouya Pezeshkpour, Yifan Tian, Sameer Singh
+AKBC 2020
+In this paper, we first study the shortcomings of the evaluation metrics in knowldge graph Embeddings.  More specifically, we demonstrate that these metrics 1) are unreliable for estimating calibration, 2) make strong assumptions that are often violated, and 3) do not sufficiently, and consistently, differentiate embedding methods from simple approaches and from each other. To address these issues, we provide a semi-complete KG using a randomly sampled subgraph from the test and validation data of YAGO3-10, allowing us to compute accurate triple classification accuracy on this data. 
+          </p>
+        </td>
+      </tr>
+   </table>
+</div>
 
-![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign%7D%20%5Coperatorname*%7Bargmax%7D_%7B%28s%27%2C%20r%27%29%7D%20%5CDelta_%7B%28s%27%2Cr%27%29%7D%28s%2Cr%2Co%29%5Cnonumber%20%5Cend%7Balign%7D)
 
-Where ∆(s,r,o) =ψ(s,r,o)−ψ'(s,r,o).
+<div class="menu-container noselect">
+   <table class="content-table">
+      <tr>
+        <td>
+          <img class="left-align image noselect" src="/images/criage.png" style="width:150%">
+        </td>
+        <td>
+          <p class="text right-align text-large add-top-margin" style="width:50%;">
+Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications
+Pouya Pezeshkpour, Yifan Tian, Sameer Singh
+NAACL 2019
+Representing entities and relations in an embedding space is a well-studied approach for machine learning on relational data. Existing approaches, however, primarily focus on improving accuracy and overlook other aspects such as robustness and interpretability. In this paper, we propose adversarial modifications for link prediction models: identifying the fact to add into or remove from the knowledge graph that changes the prediction for a target fact after the model is retrained. We introduce an efficient approach to estimate the effect of such modifications by approximating the change in the embeddings when the knowledge graph changes. We use these techniques to evaluate the robustness of link prediction models (by measuring sensitivity to additional facts), study interpretability through the facts most responsible for predictions (by identifying the most influential neighbors), and detect incorrect facts in the knowledge base.
+Project Page     PDF     Source Code     Video on Youtube
+          </p>
+        </td>
+      </tr>
+   </table>
+</div>
+
+<div class="menu-container noselect">
+   <table class="content-table">
+      <tr>
+        <td>
+          <img class="left-align image noselect" src="/images/graph.jpg" style="width:150%">
+        </td>
+        <td>
+          <p class="text right-align text-large add-top-margin" style="width:50%;">
+Embedding Multimodal Relational Data for Knowledge Base Completion
+Pouya Pezeshkpour, Liyan Chen, Sameer Singh
+EMNLP 2018
+Knowledge bases (KB) are an essential part of many computational systems with applications in search, structured data management, recommendations, question answering, and information retrieval. However, KBs often suffer from incompleteness, noise in their entries, and inefficient inference under uncertainty. To address these issues learning relational KBs by representing entities and relations in an embedding space has been a focus of active research. Nevertheless, Knowledge bases in the real-world, contain a wide variety of data types such as text, images, and numerical values which are being ignored by current methodology. We propose multimodal knowledge base embeddings (MKBE) that use different neural encoders for this variety of observed data, and combine them with existing relational models to learn embeddings of the entities and multimodal data. Further, using these learned embedings and different neural decoders, we introduce a novel multimodal imputation model to generate missing multimodal values, like text and images, from information in the knowledge base.
+Project Page     PDF     Source Code     Video on Youtube
+          </p>
+        </td>
+      </tr>
+   </table>
+</div>
+
+
+<div class="menu-container noselect">
+   <table class="content-table">
+      <tr>
+        <td>
+          <img class="left-align image noselect" src="/images/2014.png" style="width:150%">
+        </td>
+        <td>
+          <p class="text right-align text-large add-top-margin" style="width:50%;">
+Optimal tradeoff between source and state distortions over a Gaussian channel using single and hybrid digital analog codes
+Pouya Pezeshkpour, Hamid Behroozi
+IST'2014
+In this paper, the problem of transmitting an analog Gaussian source over an additive white Gaussian noise (AWGN) channel in the presence of a Gaussian interference known only at the transmitter is investigated. Our goal is to estimate both the analog source and the channel state at the receiver simultaneously. In this work, we present different transmission schemes based on joint source-channel coding. We study hybrid digital-analog (HDA) joint source-channel coding schemes and analyze the region of (mean-squared error) distortion pairs (in estimating the source and the state) that are simultaneously achievable.
+PDF
+          </p>
+        </td>
+      </tr>
+   </table>
+</div>
 
 # Efficiently Identifying the Modification
 
