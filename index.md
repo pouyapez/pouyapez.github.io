@@ -89,7 +89,7 @@ Project Page     PDF     Source Code     Video on Youtube
           <img class="left-align image noselect" src="/images/graph.jpg" width="100">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin" style="width:100%;">
+          <p class="text right-align text-large add-top-margin">
             Embedding Multimodal Relational Data for Knowledge Base Completion<br>
             Pouya Pezeshkpour, Liyan Chen, Sameer Singh<br>
             EMNLP 2018<br>
@@ -109,7 +109,7 @@ Project Page     PDF     Source Code     Video on Youtube
           <img class="left-align image noselect" src="/images/2014.png"  width="100">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin" style="width:100%;">
+          <p class="text right-align text-large add-top-margin">
             Optimal tradeoff between source and state distortions over a Gaussian channel using single and hybrid digital analog codes<br>
             Pouya Pezeshkpour, Hamid Behroozi<br>
             IST'2014<br>
