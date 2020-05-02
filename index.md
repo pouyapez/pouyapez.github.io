@@ -1,19 +1,21 @@
 ---
 layout: default
 ---
+
+![Branching](/images/face.png)
 <p align="justify">
 I am a fourth-year PhD student in Machine Learning at the University of California Irvine, advised by Prof. Sameer Singh. My main area of interest are Knowldge Graphs, Intrepretability, Active Learning and NLP.
 </p>
 
-# CRIAGE: Completion Robustness and Interpretability via Adversarial Graph Edits
+# Internships
 
 * * *
 
-![Branching](/images/criage.png)
-
 <p align="justify">
-For adversarial modifications on KGs, we first define the space of possible modifications. 
-For a target triple <s, r, o>, we constrain the possible triples that we can remove (or inject) to be in the form of <s', r', o> , i.e, s' and r' may be different from the target, but the object is not. 
+Siri Knowledge Graph group at Apple, summer 2020. <br>
+Allen Institute for Artificial Intelligence, summer 2019. <br>
+Fujitsu Laboratories of America, summer 2018. <br>
+Chinese University of Honk Kong, summer 2014. 
 </p>
 
 ### Removing a fact (CRIAGE-Remove)
