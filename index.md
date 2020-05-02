@@ -50,7 +50,7 @@ layout: default
           <img class="left-align image noselect" src="/images/crowd.jpg" width="1000">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin" style="width:100%;">
+          <p class="text center-align text-large add-top-margin" style="width:100%;">
               Revisiting Evaluation of Knowledge Base Completion Models <br>
               Pouya Pezeshkpour, Yifan Tian, Sameer Singh<br>
               AKBC 2020<br>
