@@ -64,6 +64,8 @@ layout: default
 
 <div class="menu-container noselect">
    <table class="content-table">
+    <col width="500px" />
+    <col width="500px" />
       <tr>
         <td>
           <img class="left-align image noselect" src="/images/criage.png" width="1000">
