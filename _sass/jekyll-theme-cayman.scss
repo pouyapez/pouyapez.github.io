@@ -149,20 +149,21 @@ a {
   opacity: 0.7;
 
   @include large {
-    font-size: 1.25rem;
+    font-size: 1.35rem;
   }
 
   @include medium {
-    font-size: 1.15rem;
+    font-size: 1.25rem;
   }
 
   @include small {
-    font-size: 1rem;
+    font-size: 1.1rem;
   }
 }
 
 .main-content {
   word-wrap: break-word;
+  width: 70%;
 
   :first-child {
     margin-top: 0;
