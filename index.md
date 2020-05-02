@@ -146,7 +146,7 @@ layout: default
 <ul>
   <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajay Chander, "<a href="https://patents.justia.com/patent/20200125640">USER-FRIENDLY EXPLANATION PRODUCTION USING GENERATIVE ADVERSARIAL NETWORKS</a>". US Patent Number 20200125640, 2020.</li>
  <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajey Chander, "<a href="https://patents.justia.com/patent/20200125975">EXPLANATIONS GENERATION WITH DIFFERENT COGNITIVE VALUES USING GENERATIVE ADVERSARIAL NETWORKS</a>". US Patent Number 20200125975, 2020.</li>
-</ul>
+</ul> 
 * * *
 
 <p align="center"><a href="https://medium.com/me/stories/public">Medium</a>    <span class="tab">   <a href="https://medium.com/series/my-writings-4de58ce3f034">My Writings</a></p>
