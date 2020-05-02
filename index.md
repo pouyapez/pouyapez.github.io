@@ -10,13 +10,12 @@ I am a fourth-year PhD student in Machine Learning at the University of Californ
 # Internships
 
 * * *
-
-<p align="justify">
-Siri Knowledge Graph group at Apple, summer 2020. <br>
-Allen Institute for Artificial Intelligence, summer 2019. <br>
-Fujitsu Laboratories of America, summer 2018. <br>
-Chinese University of Honk Kong, summer 2014. 
-</p>
+<ul>
+  <li>CSiri Knowledge Graph group at Apple, summer 2020.</li>
+  <li>Allen Institute for Artificial Intelligence, summer 2019.</li>
+  <li>Fujitsu Laboratories of America, summer 2018. </li>
+  <li>Chinese University of Honk Kong, summer 2014.  </li>
+</ul>
 
 ### Removing a fact (CRIAGE-Remove)
 
