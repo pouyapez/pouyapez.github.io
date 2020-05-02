@@ -59,6 +59,7 @@ In this paper, we first study the shortcomings of the evaluation metrics in know
    </table>
 </div>
 
+* * *
 
 <div class="menu-container noselect">
    <table class="content-table">
@@ -79,6 +80,7 @@ Project Page     PDF     Source Code     Video on Youtube
    </table>
 </div>
 
+* * *
 <div class="menu-container noselect">
    <table class="content-table">
       <tr>
@@ -98,7 +100,7 @@ Project Page     PDF     Source Code     Video on Youtube
    </table>
 </div>
 
-
+* * *
 <div class="menu-container noselect">
    <table class="content-table">
       <tr>
@@ -118,11 +120,16 @@ PDF
    </table>
 </div>
 
-# Efficiently Identifying the Modification
+# Workshop & Symposia Publications
 
 * * *
 
-In this section, we propose algorithms to address mentioned challenges by (1) approximating the effect of changing the graph on a target prediction,and (2) using continuous optimization for the discrete search over potential modifications.
+<ul>
+  <li>Pouya Pezeshkpour, Zhengli Zhao, Sameer Singh,"Using Data Importance for Effective Active Learning". the CVPR workshop on Visual Learning with Limited Labels (VL3), 2020.PDF.</li>
+  <li>Pouya Pezeshkpour, Yifan Tian, Sameer Singh, "Integrating Local Structure into Knowledge Graph Embeddings". SoCal NLP Symposium 2019.</li>
+  <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajey Chander, "Generating User-friendly Explanations for Loan Denials using GANs". NIPS 2018 Workshop on Challenges and Opportunities for AI in Financial Services.</li>
+  <li>Pouya Pezeshkpour, Carlos Guestrin, Sameer Singh"Compact Factorization of Matrices Using Generalized Round-Rank". Southern California Machine Learning Symposium 2017.</li>
+</ul>
 
 ### First-order Approximation of Influence
 
