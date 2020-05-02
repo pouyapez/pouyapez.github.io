@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<div class="menu-container noselect">
    <table class="content-table">
       <tr>
         <td>
@@ -13,6 +14,7 @@ layout: default
         </td>
       </tr>
    </table>
+</div>
 
 # Internships
 
