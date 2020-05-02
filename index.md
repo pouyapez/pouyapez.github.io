@@ -73,12 +73,12 @@ layout: default
           <img class="left-align image noselect" src="/images/criage.png" width="1000">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin" style="width:100%;">
+          <p class="text right-align text-large add-top-margin" style="width:100%;" align="center">
             <font style="font-size:20px">Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications </font><br>
             <font style="font-size:15px">Pouya Pezeshkpour, Yifan Tian, Sameer Singh<br>
             NAACL 2019</font><br>
             <font style="font-size:13px">Representing entities and relations in an embedding space is a well-studied approach for machine learning on relational data. Existing approaches, however, primarily focus on improving accuracy and overlook other aspects such as robustness and interpretability. In this paper, we propose adversarial modifications for link prediction models: identifying the fact to add into or remove from the knowledge graph that changes the prediction for a target fact after the model is retrained. We introduce an efficient approach to estimate the effect of such modifications by approximating the change in the embeddings when the knowledge graph changes. We use these techniques to evaluate the robustness of link prediction models (by measuring sensitivity to additional facts), study interpretability through the facts most responsible for predictions (by identifying the most influential neighbors), and detect incorrect facts in the knowledge base.</font><br>
-<font style="font-size:15px">Project Page     PDF     Source Code     Video on Youtube<font>
+<font style="font-size:15px">Project Page     PDF     Source Code     Video on Youtube</font>
           </p>
         </td>
       </tr>
@@ -95,7 +95,7 @@ layout: default
           <img class="left-align image noselect" src="/images/graph.jpg" width="1000">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin">
+          <p class="text right-align text-large add-top-margin" align="center">
             <font style="font-size:20px">Embedding Multimodal Relational Data for Knowledge Base Completion</font><br>
             <font style="font-size:15px">Pouya Pezeshkpour, Liyan Chen, Sameer Singh<br>
             EMNLP 2018</font><br>
@@ -117,7 +117,7 @@ layout: default
           <img class="left-align image noselect" src="/images/2014.png"  width="1000">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin">
+          <p class="text right-align text-large add-top-margin"  align="center">
             <font style="font-size:20px">Optimal tradeoff between source and state distortions over a Gaussian channel using single and hybrid digital analog codes</font><br>
             <font style="font-size:15px">Pouya Pezeshkpour, Hamid Behroozi<br>
             IST'2014</font><br>
