@@ -52,9 +52,9 @@ layout: default
         <td>
           <p class="text center-align text-large add-top-margin" style="width:100%;">
               Revisiting Evaluation of Knowledge Base Completion Models <br>
-              <font style="font-size:150px">Pouya Pezeshkpour, Yifan Tian, Sameer Singh<br>
+              <font style="font-size:15px">Pouya Pezeshkpour, Yifan Tian, Sameer Singh<br>
               AKBC 2020 </font><br> 
-               <font style="font-size:100px">In this paper, we first study the shortcomings of the evaluation metrics in knowldge graph Embeddings.  More specifically, we demonstrate that these metrics 1) are unreliable for estimating calibration, 2) make strong assumptions that    are often violated, and 3) do not sufficiently, and consistently, differentiate embedding methods from simple approaches and from each other. To address these issues, we provide a semi-complete KG using a randomly sampled subgraph from the test and validation data of YAGO3-10, allowing us to compute accurate triple classification accuracy on this data. </font><br>
+               <font style="font-size:10px">In this paper, we first study the shortcomings of the evaluation metrics in knowldge graph Embeddings.  More specifically, we demonstrate that these metrics 1) are unreliable for estimating calibration, 2) make strong assumptions that    are often violated, and 3) do not sufficiently, and consistently, differentiate embedding methods from simple approaches and from each other. To address these issues, we provide a semi-complete KG using a randomly sampled subgraph from the test and validation data of YAGO3-10, allowing us to compute accurate triple classification accuracy on this data. </font><br>
              <a href="https://openreview.net/pdf?id=1uufzxsxfL">PDF</a>
              </p>
         </td>
