@@ -45,7 +45,7 @@ layout: default
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/crowd.jpg" width="5000">
+          <img class="left-align image noselect" src="/images/crowd.jpg" width="2000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
@@ -66,7 +66,7 @@ layout: default
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/criage.png" width="5000">
+          <img class="left-align image noselect" src="/images/criage.png" width="2000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
@@ -86,7 +86,7 @@ Project Page     PDF     Source Code     Video on Youtube
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/graph.jpg" width="5000">
+          <img class="left-align image noselect" src="/images/graph.jpg" width="2000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
@@ -106,7 +106,7 @@ Project Page     PDF     Source Code     Video on Youtube
    <table class="content-table">
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/2014.png" style="width:100%"  width="5000">
+          <img class="left-align image noselect" src="/images/2014.png"  width="2000">
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
