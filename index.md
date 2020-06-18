@@ -50,7 +50,7 @@ layout: default
           <img class="left-align image noselect" src="/images/crowd.jpg" width="1000">
         </td>
         <td>
-          <p class="text cright-align text-large add-top-margin" style="width:100%;">
+          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
               <font style="font-size:20px">Revisiting Evaluation of Knowledge Base Completion Models </font><br>
               <font style="font-size:15px">Pouya Pezeshkpour, Yifan Tian, Sameer Singh<br>
               <font style="color:red;">(nominated for best paper award) </font>AKBC 2020 </font><br> 
@@ -73,7 +73,7 @@ layout: default
           <img class="left-align image noselect" src="/images/criage.png" width="1000">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin" style="width:100%;" align=“center”>
+          <p class="text right-align text-large add-top-margin" style="width:100%;" align="center">
             <font style="font-size:20px">Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications </font><br>
             <font style="font-size:15px">Pouya Pezeshkpour, Yifan Tian, Sameer Singh<br>
             NAACL 2019</font><br>
@@ -95,7 +95,7 @@ layout: default
           <img class="left-align image noselect" src="/images/graph.jpg" width="1000">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin" align=“center”>
+          <p class="text right-align text-large add-top-margin" align="center">
             <font style="font-size:20px">Embedding Multimodal Relational Data for Knowledge Base Completion</font><br>
             <font style="font-size:15px">Pouya Pezeshkpour, Liyan Chen, Sameer Singh<br>
             EMNLP 2018</font><br>
@@ -117,7 +117,7 @@ layout: default
           <img class="left-align image noselect" src="/images/2014.png"  width="1000">
         </td>
         <td>
-          <p class="text right-align text-large add-top-margin"  align=“center”>
+          <p class="text right-align text-large add-top-margin" align="center">
             <font style="font-size:20px">Optimal tradeoff between source and state distortions over a Gaussian channel using single and hybrid digital analog codes</font><br>
             <font style="font-size:15px">Pouya Pezeshkpour, Hamid Behroozi<br>
             IST'2014</font><br>
