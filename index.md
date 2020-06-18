@@ -134,7 +134,7 @@ layout: default
 * * *
 
 <ul>
-  <li>Pouya Pezeshkpour, Zhengli Zhao, Sameer Singh,"Using Data Importance for Effective Active Learning". the CVPR workshop on Visual Learning with Limited Labels (VL3), 2020.PDF.</li>
+  <li>Pouya Pezeshkpour, Zhengli Zhao, Sameer Singh,"<a href="https://github.com/EliSchwartz/VL3-Workshop/blob/master/pdfs/36.pdf">Using Data Importance for Effective Active Learning</a>". the CVPR workshop on Visual Learning with Limited Labels (VL3), 2020.</li>
   <li>Pouya Pezeshkpour, Yifan Tian, Sameer Singh, "Integrating Local Structure into Knowledge Graph Embeddings". SoCal NLP Symposium 2019.</li>
   <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajey Chander, "<a href="https://pouyapez.github.io/Generating%20User-friendly%20Explanations%20for%20Loan%20Denials%20using%20GANs.pdf">Generating User-friendly Explanations for Loan Denials using GANs</a>". NIPS 2018 Workshop on Challenges and Opportunities for AI in Financial Services.</li>
   <li>Pouya Pezeshkpour, Carlos Guestrin, Sameer Singh, "<a href="https://arxiv.org/pdf/1805.00184.pdf">Compact Factorization of Matrices Using Generalized Round-Rank</a>". Southern California Machine Learning Symposium 2017.</li>
