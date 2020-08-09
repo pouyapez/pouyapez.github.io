@@ -153,5 +153,5 @@ layout: default
 </ul> 
 * * *
 
-<p align="center"><a href="https://medium.com/me/stories/public">Medium</a>    &nbsp;&nbsp;&nbsp;   <a href="https://medium.com/series/my-writings-4de58ce3f034">My Writings</a>  &nbsp;&nbsp;&nbsp;   <a href="https://www.amazon.com/dp/B08DMK9PNM/ref=sr_1_1?dchild=1&keywords=a+bypass+to+nirvana&qid=1595806371&sr=8-1">My Book</a> </p>
+<p align="center"><a href="https://medium.com/@pezeshkp">Medium</a>    &nbsp;&nbsp;&nbsp;   <a href="https://medium.com/series/my-writings-4de58ce3f034">My Writings</a>  &nbsp;&nbsp;&nbsp;   <a href="https://www.amazon.com/dp/B08DMK9PNM/ref=sr_1_1?dchild=1&keywords=a+bypass+to+nirvana&qid=1595806371&sr=8-1">My Book</a> </p>
 
