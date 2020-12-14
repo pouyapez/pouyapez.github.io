@@ -133,11 +133,13 @@ layout: default
    </table>
 </div>
 
-# Workshop & Symposia Publications
+# Workshop & Symposia & Preprints
 
 * * *
 
 <ul>
+   <li>Daniel Khashabi, et al,"<a href="https://arxiv.org/pdf/2012.06154.pdf">PARSINLU:
+A Suite of Language Understanding Challenges for Persian</a>". arXiv 2020.</li>
    <li>Pouya Pezeshkpour, Zhengli Zhao, Sameer Singh,"<a href="https://openreview.net/pdf?id=p3m_WpN0rEX">On the Utility of Active Instance Selection for Few-Shot Learning</a>". The HAMLETS workshop at NeurIPS 2020.</li>
   <li>Pouya Pezeshkpour, Zhengli Zhao, Sameer Singh,"<a href="https://github.com/EliSchwartz/VL3-Workshop/blob/master/pdfs/36.pdf">Using Data Importance for Effective Active Learning</a>". The CVPR workshop on Visual Learning with Limited Labels (VL3), 2020.</li>
   <li>Pouya Pezeshkpour, Yifan Tian, Sameer Singh, "Integrating Local Structure into Knowledge Graph Embeddings". SoCal NLP Symposium 2019.</li>
