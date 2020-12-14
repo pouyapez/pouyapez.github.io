@@ -76,7 +76,7 @@ layout: default
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;" align="center">
             <font style="font-size:20px">Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications </font><br>
-            <font style="font-size:15px">Pouya Pezeshkpour, Yifan Tian, Sameer Singh<br>
+            <font style="font-size:15px"><b>Pouya Pezeshkpour</b>, Yifan Tian, Sameer Singh<br>
             NAACL 2019</font><br>
             </p><p align="justify"><font style="font-size:13px">Representing entities and relations in an embedding space is a well-studied approach for machine learning on relational data. Existing approaches, however, primarily focus on improving accuracy and overlook other aspects such as robustness and interpretability. In this paper, we propose adversarial modifications for link prediction models: identifying the fact to add into or remove from the knowledge graph that changes the prediction for a target fact after the model is retrained. We introduce an efficient approach to estimate the effect of such modifications by approximating the change in the embeddings when the knowledge graph changes. We use these techniques to evaluate the robustness of link prediction models (by measuring sensitivity to additional facts), study interpretability through the facts most responsible for predictions (by identifying the most influential neighbors), and detect incorrect facts in the knowledge base.</font><br></p>
            <p align="center">
@@ -99,7 +99,7 @@ layout: default
         <td>
           <p class="text right-align text-large add-top-margin" align="center">
             <font style="font-size:20px">Embedding Multimodal Relational Data for Knowledge Base Completion</font><br>
-            <font style="font-size:15px">Pouya Pezeshkpour, Liyan Chen, Sameer Singh<br>
+            <font style="font-size:15px"><b>Pouya Pezeshkpour</b>, Liyan Chen, Sameer Singh<br>
             EMNLP 2018</font><br>
             </p><p align="justify"><font style="font-size:13px">Knowledge bases (KB) are an essential part of many computational systems with applications in search, structured data management, recommendations, question answering, and information retrieval. However, KBs often suffer from incompleteness, noise in their entries, and inefficient inference under uncertainty. To address these issues learning relational KBs by representing entities and relations in an embedding space has been a focus of active research. Nevertheless, Knowledge bases in the real-world, contain a wide variety of data types such as text, images, and numerical values which are being ignored by current methodology. We propose multimodal knowledge base embeddings (MKBE) that use different neural encoders for this variety of observed data, and combine them with existing relational models to learn embeddings of the entities and multimodal data. Further, using these learned embedings and different neural decoders, we introduce a novel multimodal imputation model to generate missing multimodal values, like text and images, from information in the knowledge base.</font><br></p>
            <p align="center">
@@ -122,7 +122,7 @@ layout: default
         <td>
           <p class="text right-align text-large add-top-margin" align="center">
             <font style="font-size:20px">Optimal tradeoff between source and state distortions over a Gaussian channel using single and hybrid digital analog codes</font><br>
-            <font style="font-size:15px">Pouya Pezeshkpour, Hamid Behroozi<br>
+            <font style="font-size:15px"><b>Pouya Pezeshkpour</b>, Hamid Behroozi<br>
             IST'2014</font><br>
             </p><p align="justify"><font style="font-size:13px">In this paper, the problem of transmitting an analog Gaussian source over an additive white Gaussian noise (AWGN) channel in the presence of a Gaussian interference known only at the transmitter is investigated. Our goal is to estimate both the analog source and the channel state at the receiver simultaneously. In this work, we present different transmission schemes based on joint source-channel coding. We study hybrid digital-analog (HDA) joint source-channel coding schemes and analyze the region of (mean-squared error) distortion pairs (in estimating the source and the state) that are simultaneously achievable.</font><br></p>
            <p align="center">
@@ -140,19 +140,19 @@ layout: default
 <ul>
    <li>Daniel Khashabi, et al,"<a href="https://arxiv.org/pdf/2012.06154.pdf">PARSINLU:
 A Suite of Language Understanding Challenges for Persian</a>". arXiv 2020.</li>
-   <li>Pouya Pezeshkpour, Zhengli Zhao, Sameer Singh,"<a href="https://openreview.net/pdf?id=p3m_WpN0rEX">On the Utility of Active Instance Selection for Few-Shot Learning</a>". The HAMLETS workshop at NeurIPS 2020.</li>
-  <li>Pouya Pezeshkpour, Zhengli Zhao, Sameer Singh,"<a href="https://github.com/EliSchwartz/VL3-Workshop/blob/master/pdfs/36.pdf">Using Data Importance for Effective Active Learning</a>". The CVPR workshop on Visual Learning with Limited Labels (VL3), 2020.</li>
-  <li>Pouya Pezeshkpour, Yifan Tian, Sameer Singh, "Integrating Local Structure into Knowledge Graph Embeddings". SoCal NLP Symposium 2019.</li>
-  <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajey Chander, "<a href="https://pouyapez.github.io/Generating%20User-friendly%20Explanations%20for%20Loan%20Denials%20using%20GANs.pdf">Generating User-friendly Explanations for Loan Denials using GANs</a>". NIPS 2018 Workshop on Challenges and Opportunities for AI in Financial Services.</li>
-  <li>Pouya Pezeshkpour, Carlos Guestrin, Sameer Singh, "<a href="https://arxiv.org/pdf/1805.00184.pdf">Compact Factorization of Matrices Using Generalized Round-Rank</a>". Southern California Machine Learning Symposium 2017.</li>
+   <li><b>Pouya Pezeshkpour</b>, Zhengli Zhao, Sameer Singh,"<a href="https://openreview.net/pdf?id=p3m_WpN0rEX">On the Utility of Active Instance Selection for Few-Shot Learning</a>". The HAMLETS workshop at NeurIPS 2020.</li>
+  <li><b>Pouya Pezeshkpour</b>, Zhengli Zhao, Sameer Singh,"<a href="https://github.com/EliSchwartz/VL3-Workshop/blob/master/pdfs/36.pdf">Using Data Importance for Effective Active Learning</a>". The CVPR workshop on Visual Learning with Limited Labels (VL3), 2020.</li>
+  <li><b>Pouya Pezeshkpour</b>, Yifan Tian, Sameer Singh, "Integrating Local Structure into Knowledge Graph Embeddings". SoCal NLP Symposium 2019.</li>
+  <li><b>Pouya Pezeshkpour</b>, Ramya Malursrinivasan, Ajey Chander, "<a href="https://pouyapez.github.io/Generating%20User-friendly%20Explanations%20for%20Loan%20Denials%20using%20GANs.pdf">Generating User-friendly Explanations for Loan Denials using GANs</a>". NIPS 2018 Workshop on Challenges and Opportunities for AI in Financial Services.</li>
+  <li><b>Pouya Pezeshkpour</b>, Carlos Guestrin, Sameer Singh, "<a href="https://arxiv.org/pdf/1805.00184.pdf">Compact Factorization of Matrices Using Generalized Round-Rank</a>". Southern California Machine Learning Symposium 2017.</li>
 </ul>
 
 # Patents
 * * *
 
 <ul>
-  <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajay Chander, "<a href="https://patents.justia.com/patent/20200125640">USER-FRIENDLY EXPLANATION PRODUCTION USING GENERATIVE ADVERSARIAL NETWORKS</a>". US Patent Number 20200125640, 2020.</li>
- <li>Pouya Pezeshkpour, Ramya Malursrinivasan, Ajey Chander, "<a href="https://patents.justia.com/patent/20200125975">EXPLANATIONS GENERATION WITH DIFFERENT COGNITIVE VALUES USING GENERATIVE ADVERSARIAL NETWORKS</a>". US Patent Number 20200125975, 2020.</li>
+  <li><b>Pouya Pezeshkpour</b>, Ramya Malursrinivasan, Ajay Chander, "<a href="https://patents.justia.com/patent/20200125640">USER-FRIENDLY EXPLANATION PRODUCTION USING GENERATIVE ADVERSARIAL NETWORKS</a>". US Patent Number 20200125640, 2020.</li>
+ <li><b>Pouya Pezeshkpour</b>, Ramya Malursrinivasan, Ajey Chander, "<a href="https://patents.justia.com/patent/20200125975">EXPLANATIONS GENERATION WITH DIFFERENT COGNITIVE VALUES USING GENERATIVE ADVERSARIAL NETWORKS</a>". US Patent Number 20200125975, 2020.</li>
 </ul> 
 * * *
 
