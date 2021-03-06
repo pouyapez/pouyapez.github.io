@@ -16,7 +16,7 @@ layout: default
    </table>
 </div>
 
-# Internships
+# Research Internships
 
 * * *
 <ul>
