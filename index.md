@@ -48,6 +48,28 @@ layout: default
     <col width="800px" />
       <tr>
         <td>
+          <img class="left-align image noselect" src="/images/emp-inf.png" width="1000">
+        </td>
+        <td>
+          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
+              <font style="font-size:20px">An Empirical Comparison of Instance Attribution Methods for NLP</font><br>
+              <font style="font-size:15px"><b>Pouya Pezeshkpour</b>, Sarthak Jain, Byron Wallace, Sameer Singh<br>
+              NAACL 2021</font><br> 
+             </p><p align="justify"> <font style="font-size:13px">In this work we evaluate the degree to which different potential instance attribution agree with respect to the importance of training samples.
+We find that simple retrieval methods yield training instances that differ from those identified via gradient-based methods (such as the IF), but that nonetheless exhibit desirable characteristics similar to more complex attribution methods. </font><br></p>
+        </td>
+      </tr>
+   </table>
+</div>
+
+* * *
+
+<div class="menu-container noselect">
+   <table class="content-table">
+    <col width="500px" />
+    <col width="800px" />
+      <tr>
+        <td>
           <img class="left-align image noselect" src="/images/crowd.jpg" width="1000">
         </td>
         <td>
