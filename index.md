@@ -20,6 +20,7 @@ layout: default
 
 * * *
 <ul>
+  <li>Semantic Machines at Microsoft Research, summer 2021.</li>
   <li>Siri Knowledge group at Apple, summer 2020.</li>
   <li>Allen Institute for Artificial Intelligence, summer 2019.</li>
   <li>Fujitsu Laboratories of America, summer 2018. </li>
