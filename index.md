@@ -58,6 +58,9 @@ layout: default
               NAACL 2021</font><br> 
              </p><p align="justify"> <font style="font-size:13px">In this work we evaluate the degree to which different potential instance attribution agree with respect to the importance of training samples.
 We find that simple retrieval methods yield training instances that differ from those identified via gradient-based methods (such as the IF), but that nonetheless exhibit desirable characteristics similar to more complex attribution methods. </font><br></p>
+                      <p align="center">
+             <font style="font-size:15px"><a href="https://arxiv.org/pdf/2104.04128.pdf">PDF</a></font>
+             </p>
         </td>
       </tr>
    </table>
