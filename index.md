@@ -66,9 +66,8 @@ We find that simple retrieval methods yield training instances that differ from 
    </table>
 </div>
 
-* * *
-
-<!--- <div class="menu-container noselect">
+<!--- * * *
+<div class="menu-container noselect">
    <table class="content-table">
     <col width="500px" />
     <col width="800px" />
@@ -90,7 +89,7 @@ We find that simple retrieval methods yield training instances that differ from 
    </table>
 </div>
 --->
-* * *
+* * * 
 
 
 
