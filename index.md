@@ -80,7 +80,7 @@ We find that simple retrieval methods yield training instances that differ from 
           <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
               <font style="font-size:20px">PARSINLU: A Suite of Language Understanding Challenges for Persian</font><br>
               <font style="font-size:15px">Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, <b>Pouya Pezeshkpour</b>, et al<br>
-              To Apear at TACL 2021</font><br> 
+              TACL 2021</font><br> 
              </p><p align="justify"> <font style="font-size:13px">We introduce PARSINLU, the first benchmark in Persian language that includes a range of high-level tasks, Reading Comprehension, Textual Entailment, etc. These datasets are collected in a multitude of ways, often involving manual annotations by native speakers. This results in over 14.5k new instances across 6 distinct NLU tasks. Besides, we present the first results on state-of-the-art monolingual and multi- lingual pre-trained language models on this benchmark and compare them with human performance, which provides valuable in- sights into our ability to tackle natural language understanding challenges in Persian. </font><br></p>
                       <p align="center">
              <font style="font-size:15px"><a href="https://arxiv.org/pdf/2012.06154.pdf">PDF</a>&nbsp;&nbsp;&nbsp;  <a href="https://github.com/persiannlp/parsinlu">Source Code</a></font>
