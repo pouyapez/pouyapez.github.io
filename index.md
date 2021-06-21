@@ -24,7 +24,7 @@ layout: default
   <li>Siri Knowledge group at Apple, summer 2020.</li>
   <li>Allen Institute for Artificial Intelligence, summer 2019.</li>
   <li>Fujitsu Laboratories of America, summer 2018. </li>
-  <li>Chinese University of Honk Kong, summer 2014.  </li>
+  <li>Chinese University of Hong Kong, summer 2014.  </li>
 </ul>
 
 # Professional Experience
