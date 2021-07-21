@@ -31,7 +31,7 @@ layout: default
 * * *
 
 <ul>
-   <li>Co-organised Explainable Graph-Based Machine Learning workshop at AKBC 2021.</li>
+   <li>Co-organised Explainable Graph-Based Machine Learning workshop at AKBC <a href="https://xgml.github.io">2021</a>.</li>
   <li>Co-organised Knowledge Bases and Multiple Modalities workshop at AKBC <a href="https://kb-mm.github.io">2019</a> and <a href="https://kb-mm-2020.github.io">2020</a>.</li>
    <li>2021: Reviewer at NeurIPS, NAACL</li>
   <li>2020: Reviewer at NeurIPS, ICLR, AAAI, EMNLP</li>
