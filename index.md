@@ -37,7 +37,7 @@ layout: default
   <li>2020: Reviewer at NeurIPS, ICLR, AAAI, EMNLP</li>
   <li>2019: Reviewer at NeurIPS, ICLR, EMNLP</li>
   <li>2018: Reviewer at EMNLP</li>
-  <li>Volunteer at NeurIPS 2018.</li>
+  <li>Volunteer at NeurIPS 2018 and AKBC 2020.</li>
 </ul>
 
 
