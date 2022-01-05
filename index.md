@@ -50,6 +50,31 @@ layout: default
     <col width="800px" />
       <tr>
         <td>
+          <img class="left-align image noselect" src="/images/artifact.png" width="1000">
+        </td>
+        <td>
+          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
+              <font style="font-size:20px">Combining Feature and Instance Attribution to Detect Artifacts</font><br>
+              <font style="font-size:15px"><b>Pouya Pezeshkpour</b>, Sarthak Jain, Byron Wallace, Sameer Singh<br>
+              In Submission</font><br> 
+             </p><p align="justify"> <font style="font-size:13px">In this paper we evaluate use of different attribution methods for aiding identification of training data artifacts. We propose new hybrid approaches that combine saliency maps (which highlight ``important'' input features) with instance attribution methods (which retrieve training samples ``influential'' to a given prediction). We show that this proposed training-feature attribution can be used to efficiently uncover artifacts in training data when a challenging validation set is available. We also carry out a small user study to evaluate whether these methods are useful to NLP researchers in practice, with promising results. </font><br></p>
+                      <p align="center">
+             <font style="font-size:15px"><a href="https://arxiv.org/pdf/2107.00323.pdf">PDF</a></font>
+             </p>
+        </td>
+      </tr>
+   </table>
+</div>
+
+* * *
+* * *
+
+<div class="menu-container noselect">
+   <table class="content-table">
+    <col width="500px" />
+    <col width="800px" />
+      <tr>
+        <td>
           <img class="left-align image noselect" src="/images/emp-inf.png" width="1000">
         </td>
         <td>
