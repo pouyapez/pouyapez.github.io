@@ -67,7 +67,6 @@ layout: default
 </div>
 
 * * *
-* * *
 
 <div class="menu-container noselect">
    <table class="content-table">
