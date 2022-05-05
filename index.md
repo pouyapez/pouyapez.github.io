@@ -57,7 +57,7 @@ layout: default
               <font style="font-size:20px">The Extremal GDoF Gain of Optimal versus Binary Power Control in 𝐾 User Interference Networks Is Θ(<h:sqrt>k</h:sqrt>)</font><br>
               <font style="font-size:15px">Yao-Chia Chan, <b>Pouya Pezeshkpour</b>, Chunhua Geng, Syed A. Jafar<br>
               In Submission</font><br> 
-             </p><p align="justify"> <font style="font-size:13px">In this paper we  we explicitly characterizes the extremal GDoF gain of optimal over binary power control as Θ(<h:sqrt>k</h:sqrt>) for all 𝐾. In particular, the extremal gain is bounded between b
+             </p><p align="justify"> <font style="font-size:13px">In this paper we explicitly characterizes the extremal GDoF gain of optimal over binary power control as Θ(<math><msqrt><mi>k</mi></msqrt></math>) for all 𝐾. In particular, the extremal gain is bounded between b
 <h:sqrt>k</h:sqrt> and 2.5 <h:sqrt>k</h:sqrt> for every 𝐾. For 𝐾 = 2, 3, 4, 5, 6 users, the precise extremal gain is 1, 3/2, 2, 9/4 and 41/16, respectively. Networks shown to achieve the extremal gain may be interpreted as multi-tier heterogeneous networks. It is worthwhile to note that because of their focus on asymptotic analysis, the sharp characterizations of extremal gains are valuable primarily from a theoretical perspective, and not as contradictions to the conventional w. </font><br></p>
                       <p align="center">
              <font style="font-size:15px"><a href="https://arxiv.org/pdf/2205.02216.pdf">PDF</a></font>
