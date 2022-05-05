@@ -50,7 +50,7 @@ layout: default
     <col width="800px" />
       <tr>
         <td>
-          <img class="left-align image noselect" src="/images/artifact.png" width="1000">
+          <img class="left-align image noselect" src="/images/gain.png" width="1000">
         </td>
         <td>
           <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
