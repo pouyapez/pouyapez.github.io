@@ -82,7 +82,7 @@ layout: default
           <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
               <font style="font-size:20px">The Extremal GDoF Gain of Optimal versus Binary Power Control in 𝐾 User Interference Networks Is Θ(&radic;<span style="text-decoration: overline">k</span>)</font><br>
               <font style="font-size:15px">Yao-Chia Chan, <b>Pouya Pezeshkpour</b>, Chunhua Geng, Syed A. Jafar<br>
-              In Submission</font><br> 
+              IEEE Transactions on Wireless Communications 2022</font><br> 
              </p><p align="justify"> <font style="font-size:13px">In this paper we explicitly characterizes the extremal GDoF gain of optimal over binary power control as Θ(&radic;<span style="text-decoration: overline">k</span>) for all 𝐾. In particular, the extremal gain is bounded between
 &radic;<span style="text-decoration: overline">k</span> and 2.5 &radic;<span style="text-decoration: overline">k</span> for every 𝐾. For 𝐾 = 2, 3, 4, 5, 6 users, the precise extremal gain is 1, 3/2, 2, 9/4 and 41/16, respectively. Networks shown to achieve the extremal gain may be interpreted as multi-tier heterogeneous networks. It is worthwhile to note that because of their focus on asymptotic analysis, the sharp characterizations of extremal gains are valuable primarily from a theoretical perspective, and not as contradictions to the conventional w. </font><br></p>
                       <p align="center">
@@ -268,8 +268,7 @@ We find that simple retrieval methods yield training instances that differ from 
 * * *
 
 <ul>
-<!--    <li>Daniel Khashabi, et al,"<a href="https://arxiv.org/pdf/2012.06154.pdf">PARSINLU:
-A Suite of Language Understanding Challenges for Persian</a>". arXiv 2020.</li> -->
+   <li>Preethi Seshadri, <b>Pouya Pezeshkpour</b>, Sameer Singh,"<a href="https://arxiv.org/abs/2210.04337">Quantifying Social Biases Using Templates is Unreliable.</a>". The TSRML workshop at NeurIPS 2022.</li>
    <li><b>Pouya Pezeshkpour</b>, Zhengli Zhao, Sameer Singh,"<a href="https://openreview.net/pdf?id=p3m_WpN0rEX">On the Utility of Active Instance Selection for Few-Shot Learning</a>". The HAMLETS workshop at NeurIPS 2020.</li>
   <li><b>Pouya Pezeshkpour</b>, Zhengli Zhao, Sameer Singh,"<a href="https://github.com/EliSchwartz/VL3-Workshop/blob/master/pdfs/36.pdf">Using Data Importance for Effective Active Learning</a>". The CVPR workshop on Visual Learning with Limited Labels (VL3), 2020.</li>
   <li><b>Pouya Pezeshkpour</b>, Yifan Tian, Sameer Singh, "Integrating Local Structure into Knowledge Graph Embeddings". SoCal NLP Symposium 2019.</li>
