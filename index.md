@@ -57,7 +57,7 @@ layout: default
           <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
               <font style="font-size:20px">Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</font><br>
               <font style="font-size:15px">Aarohi Srivastava, et al.<br>
-              In Submission</font><br> 
+              TMLR 2023</font><br> 
              </p><p align="justify"> <font style="font-size:13px">In this paper we introduce the Beyond the Imitation Game benchmark (BIG-bench). BIG-bench currently consists of 204 tasks, with diverse topics about drawing problems from linguistics, childhood development, math, common-sense reasoning, biology, physics, social bias, software development, and beyond. BIG-bench focuses on tasks that are believed to be beyond the capabilities of current language models. We evaluate the behavior of OpenAI’s GPT models, Google-internal dense transformer architectures, and Switch-style sparse transformers on BIG-bench, across model sizes spanning millions to hundreds of billions of parameters. Findings include: model performance and calibration both improve with scale; tasks that improve gradually and predictably commonly involve a large knowledge or memorization component, whereas tasks that exhibit “breakthrough” behavior at a critical scale often involve multiple steps; social bias typically increases with scale in ambiguous settings, but this can be improved with prompting.
  </font><br></p>
                       <p align="center">
