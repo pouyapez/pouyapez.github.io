@@ -51,6 +51,31 @@ layout: default
     <col width="800px" />
       <tr>
         <td>
+          <img class="left-align image noselect" src="/images/measure.png" width="1000">
+        </td>
+        <td>
+          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
+              <font style="font-size:20px">Measuring and Modifying Factual Knowledge in Large Language Models</font><br>
+              <font style="font-size:15px">Pouya Pezeshkpour<br>
+              ICMLA 2023</font><br> 
+             </p><p align="justify"> <font style="font-size:13px">In this work, we employ information theory-based measurements to provide a framework estimating the factual knowledge contained within large language models. More specifically, we measure knowledge by analyzing the LLM’s prediction probability distribution before and after instilling the target knowledge, employing metrics such as entropy and KL-divergence. Introducing our metrics, we first assess their accuracy in comparison to previous ranking-based methods, surpassing them by over 35% in a synthetic experiment. Then, we explore two prominent methods of knowledge instillation, discovering that LLMs exhibit limitations in capturing new knowledge under specific circumstances for one of these methods. Lastly, we demonstrate the applicability of our methods in extracting unlearned and mislearned facts in LLMs through their application to in-context learning.
+ </font><br></p>
+                      <p align="center">
+             <font style="font-size:15px"><a href="https://arxiv.org/pdf/2306.06264.pdf">PDF</a></font>
+             </p>
+        </td>
+      </tr>
+   </table>
+</div>
+
+* * *
+
+<div class="menu-container noselect">
+   <table class="content-table">
+    <col width="500px" />
+    <col width="800px" />
+      <tr>
+        <td>
           <img class="left-align image noselect" src="/images/big.png" width="1000">
         </td>
         <td>
