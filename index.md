@@ -9,7 +9,7 @@ layout: default
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
-             I am a PhD student in Machine Learning at the University of California Irvine, advised by Prof.                       <a href="http://sameersingh.org">Sameer Singh</a>. My main area of interest are Knowledge Graph Completion, Interpretability, Active Learning and Text Generation. 
+             I am a Research Scientist at <a href="https://megagon.ai">Megagon Labs</a>. Prior to Megagon, I was a PhD student in Machine Learning at the University of California Irvine, advised by Prof.                       <a href="http://sameersingh.org">Sameer Singh</a>. My main area of interest includes Natural Language Understanding, Interpretability and Analysis of Models, and Knowledge Representation and Reasoning.
           </p>
         </td>
       </tr>
