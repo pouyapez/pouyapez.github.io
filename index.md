@@ -43,9 +43,9 @@ layout: default
 # Preprints
 * * *
 <ul>
-   <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka,"<a href="https://arxiv.org/pdf/2308.11483.pdf">Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions</a>"</li>
-   <li>Yunshu Wu, Hayate Iso, <b>Pouya Pezeshkpour</b>, et al,"<a href="https://arxiv.org/pdf/2309.07382">Less is More for Long Document Summary Evaluation by LLMs</a>".</li>
-  <li>Vishwas Mruthyunjaya, <b>Pouya Pezeshkpour</b>, et al,"<a href="https://arxiv.org/pdf/2308.13676">Rethinking Language Models as Symbolic Knowledge Graphs</a>".</li>
+   <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2308.11483.pdf">Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions</a>".</li>
+   <li>Yunshu Wu, Hayate Iso, <b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2309.07382">Less is More for Long Document Summary Evaluation by LLMs</a>".</li>
+  <li>Vishwas Mruthyunjaya, <b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2308.13676">Rethinking Language Models as Symbolic Knowledge Graphs</a>".</li>
   <li><b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2311.06383.pdf">Distilling Large Language Models using Skill-Occupation Graph Context for HR-Related Tasks</a>".</li>
 </ul>
 
