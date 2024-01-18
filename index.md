@@ -66,7 +66,7 @@ layout: default
         <td>
           <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
               <font style="font-size:20px">Less is More for Long Document Summary Evaluation by LLMs</font><br>
-              <font style="font-size:15px">Yunshu Wu, Hayate Iso, <b>Pouya Pezeshkpour</b><br>, et al<br>
+              <font style="font-size:15px">Yunshu Wu, Hayate Iso, <b>Pouya Pezeshkpour</b>, et al<br>
               EACL 2024</font><br> 
              </p><p align="justify"> <font style="font-size:13px">Large Language Models (LLMs) have shown promising performance in summary evaluation tasks, yet they face challenges such as high computational costs and the Lost-in-the-Middle problem where important information in the middle of long documents is often overlooked. To address these issues, this paper introduces a novel approach, Extract-then-Evaluate, which involves extracting key sentences from a long source document and then evaluating the summary by prompting LLMs. The results reveal that the proposed method not only significantly reduces evaluation costs but also exhibits a higher correlation with human evaluations. Furthermore, we provide practical recommendations for optimal document length and sentence extraction methods, contributing to the development of cost-effective yet more accurate methods for LLM-based text generation evaluation.
  </font><br></p>
