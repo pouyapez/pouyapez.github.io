@@ -44,7 +44,6 @@ layout: default
 * * *
 <ul>
    <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2308.11483.pdf">Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions</a>".</li>
-   <li>Yunshu Wu, Hayate Iso, <b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2309.07382">Less is More for Long Document Summary Evaluation by LLMs</a>".</li>
   <li>Vishwas Mruthyunjaya, <b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2308.13676">Rethinking Language Models as Symbolic Knowledge Graphs</a>".</li>
   <li><b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2311.06383.pdf">Distilling Large Language Models using Skill-Occupation Graph Context for HR-Related Tasks</a>".</li>
 </ul>
@@ -62,12 +61,37 @@ layout: default
     <col width="800px" />
       <tr>
         <td>
+          <img class="left-align image noselect" src="/images/nlg-eval.png" width="1000">
+        </td>
+        <td>
+          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
+              <font style="font-size:20px">Less is More for Long Document Summary Evaluation by LLMs</font><br>
+              <font style="font-size:15px">Yunshu Wu, Hayate Iso, <b>Pouya Pezeshkpour</b><br>, et al
+              EACL 2024</font><br> 
+             </p><p align="justify"> <font style="font-size:13px">Large Language Models (LLMs) have shown promising performance in summary evaluation tasks, yet they face challenges such as high computational costs and the Lost-in-the-Middle problem where important information in the middle of long documents is often overlooked. To address these issues, this paper introduces a novel approach, Extract-then-Evaluate, which involves extracting key sentences from a long source document and then evaluating the summary by prompting LLMs. The results reveal that the proposed method not only significantly reduces evaluation costs but also exhibits a higher correlation with human evaluations. Furthermore, we provide practical recommendations for optimal document length and sentence extraction methods, contributing to the development of cost-effective yet more accurate methods for LLM-based text generation evaluation.
+ </font><br></p>
+                      <p align="center">
+             <font style="font-size:15px"><a href="https://arxiv.org/pdf/2309.07382">PDF</a></font>
+             </p>
+        </td>
+      </tr>
+   </table>
+</div>
+
+* * *
+
+<div class="menu-container noselect">
+   <table class="content-table">
+    <col width="500px" />
+    <col width="800px" />
+      <tr>
+        <td>
           <img class="left-align image noselect" src="/images/measure.png" width="1000">
         </td>
         <td>
           <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
               <font style="font-size:20px">Measuring and Modifying Factual Knowledge in Large Language Models</font><br>
-              <font style="font-size:15px">Pouya Pezeshkpour<br>
+              <font style="font-size:15px"><b>Pouya Pezeshkpour</b><br>
               ICMLA 2023</font><br> 
              </p><p align="justify"> <font style="font-size:13px">In this work, we employ information theory-based measurements to provide a framework estimating the factual knowledge contained within large language models. More specifically, we measure knowledge by analyzing the LLM’s prediction probability distribution before and after instilling the target knowledge, employing metrics such as entropy and KL-divergence. Introducing our metrics, we first assess their accuracy in comparison to previous ranking-based methods, surpassing them by over 35% in a synthetic experiment. Then, we explore two prominent methods of knowledge instillation, discovering that LLMs exhibit limitations in capturing new knowledge under specific circumstances for one of these methods. Lastly, we demonstrate the applicability of our methods in extracting unlearned and mislearned facts in LLMs through their application to in-context learning.
  </font><br></p>
