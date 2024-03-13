@@ -43,7 +43,6 @@ layout: default
 # Preprints
 * * *
 <ul>
-   <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2308.11483.pdf">Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions</a>".</li>
   <li>Vishwas Mruthyunjaya, <b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2308.13676">Rethinking Language Models as Symbolic Knowledge Graphs</a>".</li>
   <li><b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2311.06383.pdf">Distilling Large Language Models using Skill-Occupation Graph Context for HR-Related Tasks</a>".</li>
 <li><b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2402.01108.pdf">Reasoning Capacity in Multi-Agent Systems: Limitations, Challenges and Human-Centered Solutions</a>".</li>
@@ -55,7 +54,29 @@ layout: default
 # Conference & Journal Publications
 
 * * *
-
+<div class="menu-container noselect">
+   <table class="content-table">
+    <col width="500px" />
+    <col width="800px" />
+      <tr>
+        <td>
+          <img class="left-align image noselect" src="/images/sensitive.jpg" width="1000">
+        </td>
+        <td>
+          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
+              <font style="font-size:20px">Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions</font><br>
+              <font style="font-size:15px"><b>Pouya Pezeshkpour</b>, Estevam Hruschka<br>
+              NAACL (Findings) 2024</font><br> 
+             </p><p align="justify"> <font style="font-size:13px">Large Language Models (LLMs) have demonstrated remarkable capabilities in various NLP tasks. However, previous works have shown these models are sensitive towards prompt wording, and few-shot demonstrations and their order, posing challenges to fair assessment of these models. In this paper, we focus on LLMs robustness on the task of multiple-choice questions— commonly adopted task to study reasoning and fact-retrieving capability of LLMs. Investigating the sensitivity of LLMs towards the order of options in multiple-choice questions, we demonstrate a considerable performance gap of approximately 13% to 75% in LLMs on dif- ferent benchmarks, when answer options are reordered, even when using demonstrations in
+a few-shot setting. Through a detailed analysis, we conjecture that this sensitivity arises when LLMs are uncertain about the prediction be- tween the top-2/3 choices and adopt two approaches to calibrate LLMs’ predictions, leading to up to 8 percentage points improvement across different models and benchmarks.
+ </font><br></p>
+                      <p align="center">
+             <font style="font-size:15px"><a href="https://arxiv.org/pdf/2308.11483.pdf">PDF</a></font>
+             </p>
+        </td>
+      </tr>
+   </table>
+</div>
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="500px" />
