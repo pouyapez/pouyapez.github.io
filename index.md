@@ -43,12 +43,11 @@ layout: default
 # Preprints
 * * *
 <ul>
+<li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2404.00211.pdf">Multi-Conditional Ranking with Large Language Models</a>".</li>
   <li>Vishwas Mruthyunjaya, <b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2308.13676">Rethinking Language Models as Symbolic Knowledge Graphs</a>".</li>
   <li><b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2311.06383.pdf">Distilling Large Language Models using Skill-Occupation Graph Context for HR-Related Tasks</a>".</li>
 <li><b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2402.01108.pdf">Reasoning Capacity in Multi-Agent Systems: Limitations, Challenges and Human-Centered Solutions</a>".</li>
 </ul>
-
-
 
 
 # Conference & Journal Publications
