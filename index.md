@@ -352,6 +352,8 @@ We find that simple retrieval methods yield training instances that differ from 
 * * *
 
 <ul>
+   <li><b>Pouya Pezeshkpour</b>, et al,"<a href="https://arxiv.org/abs/2402.01108">Reasoning Capacity in Multi-Agent Systems: Limitations, Challenges and Human-Centered Solutions</a>". Compound AI Systems 2024.</li>
+   <li>Eser Kandogan, et al,"<a href="https://arxiv.org/abs/2406.00584">A Blueprint Architecture of Compound AI Systems for Enterprise</a>". Compound AI Systems 2024.</li>
    <li>Preethi Seshadri, <b>Pouya Pezeshkpour</b>, Sameer Singh,"<a href="https://arxiv.org/abs/2210.04337">Quantifying Social Biases Using Templates is Unreliable</a>". The TSRML workshop at NeurIPS 2022.</li>
    <li><b>Pouya Pezeshkpour</b>, Zhengli Zhao, Sameer Singh,"<a href="https://openreview.net/pdf?id=p3m_WpN0rEX">On the Utility of Active Instance Selection for Few-Shot Learning</a>". The HAMLETS workshop at NeurIPS 2020.</li>
   <li><b>Pouya Pezeshkpour</b>, Zhengli Zhao, Sameer Singh,"<a href="https://github.com/EliSchwartz/VL3-Workshop/blob/master/pdfs/36.pdf">Using Data Importance for Effective Active Learning</a>". The CVPR workshop on Visual Learning with Limited Labels (VL3), 2020.</li>
