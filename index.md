@@ -43,6 +43,7 @@ layout: default
 # Preprints
 * * *
 <ul>
+<li>Arash Gholami, Pouyan Mousavi, <b>Pouya Pezeshkpour</b> "<a href="https://arxiv.org/pdf/2406.05194">LLMs Are Not Intelligent Thinkers: Introducing Mathematical Topic Tree Benchmark for Comprehensive Evaluation of LLMs</a>".</li>
 <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2404.00211.pdf">Multi-Conditional Ranking with Large Language Models</a>".</li>
   <li>Vishwas Mruthyunjaya, <b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2308.13676">Rethinking Language Models as Symbolic Knowledge Graphs</a>".</li>
   <li><b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2311.06383.pdf">Distilling Large Language Models using Skill-Occupation Graph Context for HR-Related Tasks</a>".</li>
