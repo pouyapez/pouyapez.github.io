@@ -43,13 +43,36 @@ layout: default
 # Preprints
 * * *
 <ul>
-<li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2404.00211.pdf">Multi-Conditional Ranking with Large Language Models</a>".</li>
   <li>Vishwas Mruthyunjaya, <b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2308.13676">Rethinking Language Models as Symbolic Knowledge Graphs</a>".</li>
   <li><b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2311.06383.pdf">Distilling Large Language Models using Skill-Occupation Graph Context for HR-Related Tasks</a>".</li>
 </ul>
 
 
 # Conference & Journal Publications
+* * *
+<div class="menu-container noselect">
+   <table class="content-table">
+    <col width="500px" />
+    <col width="800px" />
+      <tr>
+        <td>
+          <img class="left-align image noselect" src="/images/mdc.png" width="1000">
+        </td>
+        <td>
+          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
+              <font style="font-size:20px">From Single to Multi: How LLMs Hallucinate in Multi-Document Summarization</font><br>
+              <font style="font-size:15px">Catarina G. Belem, <b>Pouya Pezeshkpour</b>, et al<br>
+              NAACL (Findings) 2025</font><br> 
+             </p><p align="justify"> <font style="font-size:13px">Although many studies have investigated and reduced hallucinations in large language models (LLMs) for single-document tasks, research on hallucination in multi-document summarization (MDS) tasks remains largely unexplored. Specifically, it is unclear how the challenges arising from handling multiple documents (e.g., repetition and diversity of information) affect models outputs. In this work, we investigate how hallucinations manifest in LLMs when summarizing topic-specific information from multiple documents. Since no benchmarks exist for investigating hallucinations in MDS, we use existing news and conversation datasets, annotated with topic-specific insights, to create two novel multi-document benchmarks. When evaluating 5 LLMs on our benchmarks, we observe that on average, up to 75% of the content in LLM-generated summaries is hallucinated, with hallucinations more likely to occur towards the end of the summaries. Moreover, when summarizing non-existent topic-related information, gpt-3.5-turbo and GPT-4o still generate summaries about 79.35% and 44% of the time, raising concerns about their tendency to fabricate content. To understand the characteristics of these hallucinations, we manually evaluate 700+ insights and find that most errors stem from either failing to follow instructions or producing overly generic insights. 
+Motivated by these observations, we investigate the efficacy of simple post-hoc baselines in mitigating hallucinations but find them only moderately effective. Our results underscore the need for more effective approaches to systematically mitigate hallucinations in MDS. 
+ </font><br></p>
+                      <p align="center">
+             <font style="font-size:15px"><a href="https://arxiv.org/pdf/2410.13961">PDF</a></font>
+             </p>
+        </td>
+      </tr>
+   </table>
+</div>
 * * *
 <div class="menu-container noselect">
    <table class="content-table">
