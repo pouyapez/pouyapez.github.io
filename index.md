@@ -43,7 +43,6 @@ layout: default
 # Preprints
 * * *
 <ul>
-<li>Arash Gholami, Pouyan Mousavi, <b>Pouya Pezeshkpour</b> "<a href="https://arxiv.org/pdf/2406.05194">LLMs Are Not Intelligent Thinkers: Introducing Mathematical Topic Tree Benchmark for Comprehensive Evaluation of LLMs</a>".</li>
 <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2404.00211.pdf">Multi-Conditional Ranking with Large Language Models</a>".</li>
   <li>Vishwas Mruthyunjaya, <b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2308.13676">Rethinking Language Models as Symbolic Knowledge Graphs</a>".</li>
   <li><b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2311.06383.pdf">Distilling Large Language Models using Skill-Occupation Graph Context for HR-Related Tasks</a>".</li>
@@ -51,6 +50,29 @@ layout: default
 
 
 # Conference & Journal Publications
+* * *
+<div class="menu-container noselect">
+   <table class="content-table">
+    <col width="500px" />
+    <col width="800px" />
+      <tr>
+        <td>
+          <img class="left-align image noselect" src="/images/exsir.jpg" width="1000">
+        </td>
+        <td>
+          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
+              <font style="font-size:20px">Multi-Conditional Ranking with Large Language Models</font><br>
+              <font style="font-size:15px">Pouya Pezeshkpour</b>, Estevam Hruschka<br>
+              NAACL 2025</font><br> 
+             </p><p align="justify"> <font style="font-size:13px">Utilizing large language models (LLMs) to rank a set of items has become a common approach in recommendation and retrieval systems. Typically, these systems focus on ordering a substantial number of documents in a monotonic order based on a given query. However, real-world scenarios often present a different challenge: ranking a comparatively smaller set of items, but according to a variety of diverse and occasionally conflicting conditions. In this paper, we define and explore the task of multi-conditional ranking by introducing MCRank, a benchmark tailored for assessing multi-conditional ranking across various item types and conditions. Our analysis of LLMs using MCRank indicates a significant decrease in performance as the number and complexity of items and conditions grow. To overcome this limitation, we propose a novel decomposed reasoning method, consisting of EXtracting and Sorting the conditions, and then Iteratively Ranking the items (EXSIR). Our extensive experiments show that this decomposed reasoning method enhances LLMs' performance significantly, achieving up to a 14.4% improvement over existing LLMs. We also provide a detailed analysis of LLMs performance across various condition categories, and examine the effectiveness of decomposition step. Furthermore, we compare our method with existing approaches such as Chain-of-Thought and existing ranking models, demonstrating the superiority of our approach and complexity of MCR task.
+ </font><br></p>
+                      <p align="center">
+             <font style="font-size:15px"><a href="https://arxiv.org/pdf/2404.00211.pdf">PDF</a></font>
+             </p>
+        </td>
+      </tr>
+   </table>
+</div>
 * * *
 <div class="menu-container noselect">
    <table class="content-table">
@@ -76,8 +98,6 @@ In an effort to pinpoint the reasons behind LLMs performances, we conducted a ma
       </tr>
    </table>
 </div>
-
-* * *
 * * *
 <div class="menu-container noselect">
    <table class="content-table">
