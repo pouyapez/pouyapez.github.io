@@ -43,6 +43,7 @@ layout: default
 # Preprints
 * * *
 <ul>
+   <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/abs/2501.17840">Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?</a>".</li>
   <li>Vishwas Mruthyunjaya, <b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2308.13676">Rethinking Language Models as Symbolic Knowledge Graphs</a>".</li>
   <li><b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2311.06383.pdf">Distilling Large Language Models using Skill-Occupation Graph Context for HR-Related Tasks</a>".</li>
 </ul>
