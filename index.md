@@ -43,6 +43,7 @@ layout: default
 # Preprints
 * * *
 <ul>
+   <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2504.00187">Insight-RAG: Enhancing LLMs with Insight-Driven Augmentation</a>".</li>
    <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/abs/2501.17840">Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?</a>".</li>
   <li>Vishwas Mruthyunjaya, <b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2308.13676">Rethinking Language Models as Symbolic Knowledge Graphs</a>".</li>
   <li><b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2311.06383.pdf">Distilling Large Language Models using Skill-Occupation Graph Context for HR-Related Tasks</a>".</li>
@@ -98,6 +99,30 @@ Motivated by these observations, we investigate the efficacy of simple post-hoc 
    </table>
 </div>
 * * *
+<div class="menu-container noselect">
+   <table class="content-table">
+    <col width="500px" />
+    <col width="800px" />
+      <tr>
+        <td>
+          <img class="left-align image noselect" src="/images/fair.png" width="1000">
+        </td>
+        <td>
+          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
+              <font style="font-size:20px">Evaluating Bias in LLMs for Job-Resume Matching: Gender, Race, and Education</font><br>
+              <font style="font-size:15px">Hayate Iso, <b>Pouya Pezeshkpour</b>, et al.<br>
+              NAACL 2025 (Industry Track)</font><br> 
+             </p><p align="justify"> <font style="font-size:13px">LLMs can automate hiring by matching job descriptions with resumes and reducing costs, but they may also reinforce biases. This study evaluates the fairness of LLMs in U.S. English-language job-resume matching by examining gender, race, and educational background. Our findings indicate that recent models have reduced biases related to explicit attributes like gender and race, yet significant implicit biases concerning educational background persist, underscoring the need for better bias mitigation strategies.
+ </font><br></p>
+                      <p align="center">
+             <font style="font-size:15px"><a href="https://arxiv.org/pdf/2503.19182">PDF</a></font>
+             </p>
+        </td>
+      </tr>
+   </table>
+</div>
+* * *
+
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="500px" />
