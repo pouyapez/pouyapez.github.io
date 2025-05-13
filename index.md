@@ -43,6 +43,7 @@ layout: default
 # Preprints
 * * *
 <ul>
+   <li><b>Pouya Pezeshkpour</b>, Moin Aminnaseri, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2504.08974">Mixed Signals: Decoding VLMs' Reasoning and Underlying Bias in Vision-Language Conflict</a>".</li>
    <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2504.00187">Insight-RAG: Enhancing LLMs with Insight-Driven Augmentation</a>".</li>
    <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/abs/2501.17840">Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?</a>".</li>
   <li>Vishwas Mruthyunjaya, <b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2308.13676">Rethinking Language Models as Symbolic Knowledge Graphs</a>".</li>
