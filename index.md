@@ -43,7 +43,6 @@ layout: default
 # Preprints
 * * *
 <ul>
-   <li><b>Pouya Pezeshkpour</b>, Moin Aminnaseri, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2504.08974">Mixed Signals: Decoding VLMs' Reasoning and Underlying Bias in Vision-Language Conflict</a>".</li>
    <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2504.00187">Insight-RAG: Enhancing LLMs with Insight-Driven Augmentation</a>".</li>
    <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/abs/2501.17840">Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?</a>".</li>
   <li>Vishwas Mruthyunjaya, <b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2308.13676">Rethinking Language Models as Symbolic Knowledge Graphs</a>".</li>
@@ -52,6 +51,33 @@ layout: default
 
 
 # Conference & Journal Publications
+* * *
+<div class="menu-container noselect">
+   <table class="content-table">
+    <col width="500px" />
+    <col width="800px" />
+      <tr>
+        <td>
+          <img class="left-align image noselect" src="/images/vlm.png" width="1000">
+        </td>
+        <td>
+          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
+              <font style="font-size:20px">Mixed Signals: Decoding VLMs' Reasoning and Underlying Bias in Vision-Language Conflict</font><br>
+              <font style="font-size:15px"><b>Pouya Pezeshkpour</b>, Moin Aminnaseri, Estevam Hruschka, <br>
+              EMNLP (Findings) 2025</font><br> 
+             </p><p align="justify"> <font style="font-size:13px">Vision-language models (VLMs) have demonstrated impressive performance by effectively integrating visual and textual information to solve complex tasks. 
+However, it is not clear how these models reason over the visual and textual data together, nor how the flow of information between modalities is structured.
+In this paper, we examine how VLMs reason by analyzing their biases when confronted with scenarios that present conflicting image and text cues—a common occurrence in real-world applications.
+Our analysis shows that VLMs favor text in simpler queries but shift toward images as query complexity increases. This bias correlates with model scale, with the difference between the percentage of image- and text-preferred responses ranging from +56.8\% (image favored) to -74.4\% (text favored), depending on the task and model.
+In addition, we explore various mitigation strategies, showing that the effectiveness of these strategies in identifying and mitigating bias varies significantly and is closely linked to the model's overall performance on the task and the specific modality in question. 
+ </font><br></p>
+                      <p align="center">
+             <font style="font-size:15px"><a href="https://arxiv.org/pdf/2504.08974">PDF</a></font>
+             </p>
+        </td>
+      </tr>
+   </table>
+</div>
 * * *
 <div class="menu-container noselect">
    <table class="content-table">
