@@ -103,7 +103,7 @@ In addition, we explore various mitigation strategies, showing that the effectiv
       </tr>
    </table>
 </div>
-* * *
+<hr>
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="500px" />
@@ -127,7 +127,7 @@ Motivated by these observations, we investigate the efficacy of simple post-hoc 
       </tr>
    </table>
 </div>
-* * *
+<hr>
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="500px" />
@@ -150,7 +150,7 @@ Motivated by these observations, we investigate the efficacy of simple post-hoc 
       </tr>
    </table>
 </div>
-* * *
+<hr>
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="500px" />
@@ -173,7 +173,7 @@ Motivated by these observations, we investigate the efficacy of simple post-hoc 
       </tr>
    </table>
 </div>
-* * *
+<hr>
 
 <div class="menu-container noselect">
    <table class="content-table">
@@ -197,7 +197,7 @@ Motivated by these observations, we investigate the efficacy of simple post-hoc 
       </tr>
    </table>
 </div>
-* * *
+<hr>
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="500px" />
@@ -222,7 +222,7 @@ a few-shot setting. Through a detailed analysis, we conjecture that this sensiti
    </table>
 </div>
 
-* * *
+<hr>
 
 <div class="menu-container noselect">
    <table class="content-table">
@@ -247,7 +247,7 @@ a few-shot setting. Through a detailed analysis, we conjecture that this sensiti
    </table>
 </div>
 
-* * *
+<hr>
 
 <div class="menu-container noselect">
    <table class="content-table">
@@ -272,7 +272,7 @@ a few-shot setting. Through a detailed analysis, we conjecture that this sensiti
    </table>
 </div>
 
-* * *
+<hr>
 
 <div class="menu-container noselect">
    <table class="content-table">
@@ -297,7 +297,7 @@ a few-shot setting. Through a detailed analysis, we conjecture that this sensiti
    </table>
 </div>
 
-* * *
+<hr>
 
 <div class="menu-container noselect">
    <table class="content-table">
@@ -322,7 +322,7 @@ a few-shot setting. Through a detailed analysis, we conjecture that this sensiti
    </table>
 </div>
 
-* * *
+<hr>
 
 
 <div class="menu-container noselect">
@@ -347,7 +347,7 @@ a few-shot setting. Through a detailed analysis, we conjecture that this sensiti
    </table>
 </div>
 
-* * *
+<hr>
 
 <div class="menu-container noselect">
    <table class="content-table">
@@ -372,7 +372,7 @@ We find that simple retrieval methods yield training instances that differ from 
    </table>
 </div>
 
-* * *
+<hr>
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="500px" />
@@ -395,7 +395,7 @@ We find that simple retrieval methods yield training instances that differ from 
    </table>
 </div>
 
-* * * 
+<hr>
 
 
 
@@ -422,7 +422,7 @@ We find that simple retrieval methods yield training instances that differ from 
    </table>
 </div>
 
-* * *
+<hr>
 
 <div class="menu-container noselect">
    <table class="content-table">
@@ -446,7 +446,7 @@ We find that simple retrieval methods yield training instances that differ from 
    </table>
 </div>
 
-* * *
+<hr>
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="500px" />
@@ -469,7 +469,7 @@ We find that simple retrieval methods yield training instances that differ from 
    </table>
 </div>
 
-* * *
+<hr>
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="500px" />
