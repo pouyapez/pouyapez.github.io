@@ -18,7 +18,7 @@ layout: default
 
 # Research Internships
 
-* * *
+<hr>
 <ul>
   <li>Semantic Machines at Microsoft Research, summer 2021.</li>
   <li>Siri Knowledge group at Apple, summer 2020.</li>
@@ -28,7 +28,7 @@ layout: default
 </ul>
 
 # Professional Experience
-* * *
+<hr>
 
 <ul>
    <li>Co-organised Explainable Graph-Based Machine Learning workshop at AKBC <a href="https://xgml.github.io">2021</a>.</li>
@@ -41,7 +41,7 @@ layout: default
 </ul>
 
 # Preprints
-* * *
+<hr>
 <ul>
    <li>Farima Bayat, <b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/abs/2511.10899">From Proof to Program: Characterizing Tool-Induced Reasoning Hallucinations in Large Language Models</a>".</li>   
    <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2504.00187">Insight-RAG: Enhancing LLMs with Insight-Driven Augmentation</a>".</li>
@@ -52,7 +52,7 @@ layout: default
 
 
 # Conference & Journal Publications
-* * *
+<hr>
 <ul>
 <div class="menu-container noselect">
    <table class="content-table">
@@ -494,7 +494,7 @@ We find that simple retrieval methods yield training instances that differ from 
 
 # Workshop & Symposia 
 
-* * *
+<hr>
 
 <ul>
    <li><b>Pouya Pezeshkpour</b>, et al,"<a href="https://arxiv.org/abs/2402.01108">Reasoning Capacity in Multi-Agent Systems: Limitations, Challenges and Human-Centered Solutions</a>". Compound AI Systems 2024.</li>
@@ -508,13 +508,13 @@ We find that simple retrieval methods yield training instances that differ from 
 </ul>
 
 # Patents
-* * *
+<hr>
 
 <ul>
   <li><b>Pouya Pezeshkpour</b>, Ramya Malursrinivasan, Ajay Chander, "<a href="https://patents.justia.com/patent/20200125640">USER-FRIENDLY EXPLANATION PRODUCTION USING GENERATIVE ADVERSARIAL NETWORKS</a>". US Patent Number 20200125640, 2020.</li>
  <li><b>Pouya Pezeshkpour</b>, Ramya Malursrinivasan, Ajey Chander, "<a href="https://patents.justia.com/patent/20200125975">EXPLANATIONS GENERATION WITH DIFFERENT COGNITIVE VALUES USING GENERATIVE ADVERSARIAL NETWORKS</a>". US Patent Number 20200125975, 2020.</li>
 </ul> 
-* * *
+<hr>
 
 <p align="center"><a href="https://medium.com/@pezeshkp">Medium</a>    &nbsp;&nbsp;&nbsp;   <a href="https://medium.com/series/my-writings-4de58ce3f034">My Writings</a>  &nbsp;&nbsp;&nbsp;   <a href="https://www.amazon.com/dp/B08DMK9PNM/ref=sr_1_1?dchild=1&keywords=a+bypass+to+nirvana&qid=1595806371&sr=8-1">My Book</a> </p>
 
