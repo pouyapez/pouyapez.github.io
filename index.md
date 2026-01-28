@@ -492,6 +492,7 @@ We find that simple retrieval methods yield training instances that differ from 
    </table>
 </div>
 
+</ul>
 # Workshop & Symposia 
 
 <hr>
