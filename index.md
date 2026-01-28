@@ -76,7 +76,7 @@ layout: default
       </tr>
    </table>
 </div>
-* * *
+<hr>
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="500px" />
