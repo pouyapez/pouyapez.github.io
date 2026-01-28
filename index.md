@@ -70,7 +70,7 @@ layout: default
              </p><p align="justify"> <font style="font-size:13px">FuncBenchGen is a contamination-free framework for evaluating tool-augmented LLMs by generating synthetic multi-step tool-use tasks. It models tool use as traversal over a hidden function-dependency DAG, letting us precisely control difficulty (graph size, depth, distractors) while avoiding leakage. Across seven LLMs, reasoning-optimized models perform best (GPT-5 leads), but accuracy drops sharply with deeper dependencies and connected distractors. Failures often reflect brittle state tracking—valid calls with stale/incorrect arguments—mitigated by restating prior variable values each step, which yields large gains.
  </font><br></p>
                       <p align="center">
-             <font style="font-size:15px"><a href="https://arxiv.org/pdf/2504.08974">PDF</a></font>
+             <font style="font-size:15px"><a href="https://arxiv.org/pdf/2509.26553">PDF</a></font>
              </p>
         </td>
       </tr>
