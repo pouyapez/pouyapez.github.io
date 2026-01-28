@@ -9,7 +9,7 @@ layout: default
         </td>
         <td>
           <p class="text right-align text-large add-top-margin" style="width:100%;">
-             I am a Research Scientist at <a href="https://megagon.ai">Megagon Labs</a>. Prior to Megagon, I was a PhD student in Machine Learning at the University of California Irvine, advised by Prof.                       <a href="http://sameersingh.org">Sameer Singh</a>. My main area of interest includes Natural Language Understanding, Interpretability and Analysis of Models, and Knowledge Representation and Reasoning.
+             I am a Senior Research Scientist at <a href="https://megagon.ai">Megagon Labs</a>. Prior to Megagon, I was a PhD student in Machine Learning at the University of California Irvine, advised by Prof.                       <a href="http://sameersingh.org">Sameer Singh</a>. My main area of interest includes Natural Language Understanding, Interpretability and Analysis of Models, and Knowledge Representation and Reasoning.
           </p>
         </td>
       </tr>
@@ -43,6 +43,7 @@ layout: default
 # Preprints
 * * *
 <ul>
+   <li>Farima Bayat, <b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/abs/2511.10899">From Proof to Program: Characterizing Tool-Induced Reasoning Hallucinations in Large Language Models/a>".</li>   
    <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2504.00187">Insight-RAG: Enhancing LLMs with Insight-Driven Augmentation</a>".</li>
    <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/abs/2501.17840">Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?</a>".</li>
   <li>Vishwas Mruthyunjaya, <b>Pouya Pezeshkpour</b>, et al, "<a href="https://arxiv.org/pdf/2308.13676">Rethinking Language Models as Symbolic Knowledge Graphs</a>".</li>
@@ -51,6 +52,29 @@ layout: default
 
 
 # Conference & Journal Publications
+* * *
+<div class="menu-container noselect">
+   <table class="content-table">
+    <col width="500px" />
+    <col width="800px" />
+      <tr>
+        <td>
+          <img class="left-align image noselect" src="/images/vlm.png" width="1000">
+        </td>
+        <td>
+          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
+              <font style="font-size:20px">Towards Reliable Benchmarking: A Contamination Free, Controllable Evaluation Framework for Multi-step LLM Function Calling</font><br>
+              <font style="font-size:15px">Seiji Maekawa, Jackson Hassell, <b>Pouya Pezeshkpour</b>, Tom Mitchell, Estevam Hruschka, <br>
+              ICLR 2026</font><br> 
+             </p><p align="justify"> <font style="font-size:13px">FuncBenchGen is a contamination-free framework for evaluating tool-augmented LLMs by generating synthetic multi-step tool-use tasks. It models tool use as traversal over a hidden function-dependency DAG, letting us precisely control difficulty (graph size, depth, distractors) while avoiding leakage. Across seven LLMs, reasoning-optimized models perform best (GPT-5 leads), but accuracy drops sharply with deeper dependencies and connected distractors. Failures often reflect brittle state tracking—valid calls with stale/incorrect arguments—mitigated by restating prior variable values each step, which yields large gains.
+ </font><br></p>
+                      <p align="center">
+             <font style="font-size:15px"><a href="https://arxiv.org/pdf/2504.08974">PDF</a></font>
+             </p>
+        </td>
+      </tr>
+   </table>
+</div>
 * * *
 <div class="menu-container noselect">
    <table class="content-table">
