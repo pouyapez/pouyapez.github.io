@@ -43,6 +43,8 @@ layout: default
 # Preprints
 <hr>
 <ul>
+   <li>Arash Gholami Davoodi, Navid Rezazadeh, Seyed Pouyan Mousavi Davoudi, <b>Pouya Pezeshkpour</b>"<a href="https://arxiv.org/abs/2602.10346">Geometry-Aware Decoding with Wasserstein-Regularized Truncation and Mass Penalties for Large Language Models</a>".</li> 
+   <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/abs/2602.02760">From Task Solving to Robust Real-World Adaptation in LLM Agents</a>".</li> 
    <li>Farima Bayat, <b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/abs/2511.10899">From Proof to Program: Characterizing Tool-Induced Reasoning Hallucinations in Large Language Models</a>".</li>   
    <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2504.00187">Insight-RAG: Enhancing LLMs with Insight-Driven Augmentation</a>".</li>
    <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/abs/2501.17840">Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?</a>".</li>
