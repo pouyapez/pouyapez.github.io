@@ -62,6 +62,29 @@ layout: default
     <col width="800px" />
       <tr>
         <td>
+          <img class="left-align image noselect" src="/images/tim.png" width="1000">
+        </td>
+        <td>
+          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
+              <font style="font-size:20px">From Proof to Program: Characterizing Tool-Induced Reasoning Hallucinations in Large Language Models</font><br>
+              <font style="font-size:15px">Farima Bayat, <b>Pouya Pezeshkpour</b>, Estevam Hruschka <br>
+              ACL 2026</font><br> 
+             </p><p align="justify"> <font style="font-size:13px">We show that tool augmentation improves final-answer accuracy, but often at the cost of reasoning quality. In particular, we identify Tool-Induced Myopia (TIM), a failure mode in which models treat tool outputs as replacements for reasoning rather than as supporting evidence. Through PYMATH, a benchmark of 1,679 competition-level math problems, and a multi-dimensional evaluation framework, we find that increased tool use consistently correlates with weaker, less coherent reasoning and shifts errors toward deeper global failures. To address this, we introduce a preference-optimization-based alignment method that encourages models to use tools in a more supportive way, improving both answer accuracy and reasoning depth under tool use.
+ </font><br></p>
+                      <p align="center">
+             <font style="font-size:15px"><a href="https://arxiv.org/pdf/2511.10899">PDF</a></font>
+             </p>
+        </td>
+      </tr>
+   </table>
+</div>
+<hr>
+<div class="menu-container noselect">
+   <table class="content-table">
+    <col width="500px" />
+    <col width="800px" />
+      <tr>
+        <td>
           <img class="left-align image noselect" src="/images/funcbench.png" width="1000">
         </td>
         <td>
