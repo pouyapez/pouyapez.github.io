@@ -68,7 +68,7 @@ layout: default
           <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
               <font style="font-size:20px">Geometry-Aware Decoding with Wasserstein-Regularized Truncation and Mass Penalties for Large Language Models</font><br>
               <font style="font-size:15px">Arash Gholami Davoodi, Navid Rezazadeh, Seyed Pouyan Mousavi Davoudi, <b>Pouya Pezeshkpour</b> <br>
-              ICML (spotlight) 2026</font><br> 
+              ICML <font style="color:red;">(spotlight)</font> 2026</font><br> 
              </p><p align="justify"> <font style="font-size:13px">We introduce Top-W, a geometry-aware decoding method that improves LLM generation by using Wasserstein distance over token embeddings to preserve semantic structure during truncation. Unlike prior samplers that rely mainly on probability mass or entropy, Top-W balances semantic closeness, retained mass, and diversity. Our theory gives an efficient closed-form subset update, and experiments across GSM8K, GPQA, AlpacaEval, and MT-Bench show consistent gains over strong decoding baselines, improving both accuracy and creativity.
  </font><br></p>
                       <p align="center">
