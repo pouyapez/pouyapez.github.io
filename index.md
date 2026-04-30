@@ -43,7 +43,8 @@ layout: default
 # Preprints
 <hr>
 <ul>
-   <li>Arash Gholami Davoodi, Navid Rezazadeh, Seyed Pouyan Mousavi Davoudi, <b>Pouya Pezeshkpour</b>, "<a href="https://arxiv.org/abs/2602.10346">Geometry-Aware Decoding with Wasserstein-Regularized Truncation and Mass Penalties for Large Language Models</a>".</li> 
+   <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/abs/2604.22937">AutoPyVerifier: Learning Compact Executable Verifiers for Large Language Model Outputs</a>".</li> 
+   <li>Seiji Maekawa, Moin Aminnaseri, <b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2604.03403">Align then Train: Efficient Retrieval Adapter Learning</a>".</li> 
    <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/abs/2602.02760">From Task Solving to Robust Real-World Adaptation in LLM Agents</a>".</li>   
    <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/pdf/2504.00187">Insight-RAG: Enhancing LLMs with Insight-Driven Augmentation</a>".</li>
    <li><b>Pouya Pezeshkpour</b>, Estevam Hruschka, "<a href="https://arxiv.org/abs/2501.17840">Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?</a>".</li>
@@ -55,6 +56,29 @@ layout: default
 # Conference & Journal Publications
 <hr>
 <ul>
+<div class="menu-container noselect">
+   <table class="content-table">
+    <col width="500px" />
+    <col width="800px" />
+      <tr>
+        <td>
+          <img class="left-align image noselect" src="/images/decode.png" width="1000">
+        </td>
+        <td>
+          <p class="text cright-align text-large add-top-margin" style="width:100%;" align="center">
+              <font style="font-size:20px">Geometry-Aware Decoding with Wasserstein-Regularized Truncation and Mass Penalties for Large Language Models</font><br>
+              <font style="font-size:15px">Arash Gholami Davoodi, Navid Rezazadeh, Seyed Pouyan Mousavi Davoudi, <b>Pouya Pezeshkpour</b> <br>
+              ICML (spotlight) 2026</font><br> 
+             </p><p align="justify"> <font style="font-size:13px">We introduce Top-W, a geometry-aware decoding method that improves LLM generation by using Wasserstein distance over token embeddings to preserve semantic structure during truncation. Unlike prior samplers that rely mainly on probability mass or entropy, Top-W balances semantic closeness, retained mass, and diversity. Our theory gives an efficient closed-form subset update, and experiments across GSM8K, GPQA, AlpacaEval, and MT-Bench show consistent gains over strong decoding baselines, improving both accuracy and creativity.
+ </font><br></p>
+                      <p align="center">
+             <font style="font-size:15px"><a href="https://arxiv.org/pdf/2602.10346">PDF</a></font>
+             </p>
+        </td>
+      </tr>
+   </table>
+</div>
+<hr>
 <div class="menu-container noselect">
    <table class="content-table">
     <col width="500px" />
